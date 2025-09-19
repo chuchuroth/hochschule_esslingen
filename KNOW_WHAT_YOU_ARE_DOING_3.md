@@ -1,8 +1,6 @@
-__做事时要遵守基本规则，但有点个人特色也不是坏事。__
-__不是想到什么就做什么，最好是有一个structure，事与事之间是互相有关联的，就像点与点之间连一条线然后逐渐形成一个网，不是孤立的。__
-
-jour fixe：
-设计一个汇报的格式，保证信息密度，然后以后的汇报都根据这个格式，十分钟内讲完你所有要讲的事，条理清晰。如果不经过设计，信息密度太低，就免不了说废话，听多了就会烦。
++ __做事时要遵守基本规则，但有点个人特色也不是坏事。__
++ __不是想到什么就做什么，最好是有一个structure，事与事之间是互相有关联的，就像点与点之间连一条线然后逐渐形成一个网，不是孤立的。__
++ jour fixe：设计一个汇报的格式，保证信息密度，然后以后的汇报都根据这个格式，十分钟内讲完你所有要讲的事，条理清晰。如果不经过设计，信息密度太低，就免不了说废话，听多了就会烦。
 
 
 ---
@@ -24,10 +22,10 @@ to-dos:
 先解释什么是debaudetechnik，它主要解决哪些问题，有哪些主要的研究对象，跟regelungstechnik有何关系，如何运用regelungstechnik的方法在各个实际应用场景中，
 
 ---
-实验一，一个简单的面板，有几个信号
-实验二，schneider的一个类似于plc的机器，貌似用来控制一栋楼debaude
-实验三，一个analog的控制器，在一张纸上画线，那叫什么？他说要digitalisieren。。
-实验四，一个什么软件的lizenz，什么软件？
++ 实验一，一个简单的面板，有几个信号, process trainer, 模拟工业过程
++ 实验二，SPS-Steuerung, Modicon M262, IIoT-fähig, 5 ns/Anweisung, 2x Ethernet, OPC UA, 8 schnelle E/A
++ 实验三，pen recorder, 应该被digital recorder取代
++ 实验四，一个什么软件的lizenz，什么软件？，估计是plc
 
 ---
 
@@ -38,9 +36,9 @@ basiert auf Input von letzte mal, ich habe folgenden vorbereitet, mit ein paar f
 挑选一个经典的topic，准备一节三十分钟的课，demo - also mache ich ein Erörterung uber allgemein Gebäudetechnik, auf didaktische Art und weise, plus meine eigene Verständnis, als Probelauf.
 spater wenn ich habe konkrete aufgaben oder thema, dann mache demo fur das thema
 控制系统：
-第一层理解（从易到难，层层递进，不要马上上数学公式和晦涩的理论，容易感到挫折感）
-第二层理解
-第三层理解
++ 第一层理解（从易到难，层层递进，不要马上上数学公式和晦涩的理论，容易感到挫折感）
++ 第二层理解
++ 第三层理解
 认知的发展是有规律的，从小学到中学到大学，层层递进
 
 （多研究教学方法）

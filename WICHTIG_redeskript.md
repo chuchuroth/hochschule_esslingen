@@ -71,7 +71,7 @@ Ich sehe mich als Schnittstelle zwischen Theorie und Praxis also aus Konzept fun
 ---
 
 
-
+i want to make presentation on this topic, based on the content help me to draft a structural script, start with a manuskript skeleton, cover the key points 
 
 
 ---

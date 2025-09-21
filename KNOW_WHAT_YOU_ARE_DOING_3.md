@@ -2,6 +2,11 @@
 
 ---
 
+basiert auf input leztel mal ich habedrei sache gemacht:
++ ich have gebaudetechnik gelernt und kann probelauf machen, wenn später ein konkrete thema hab
++ ich habe laborversuche recherchiert...
++ ich habe 汇报格式 als jour fixe designed
+
 + __做事时要遵守基本规则，但有点个人特色也不是坏事。__
 + __不是想到什么就做什么，最好是有一个structure，事与事之间是互相有关联的，就像点与点之间连一条线然后逐渐形成一个网，不是孤立的。__
 + jour fixe：设计一个汇报的格式，保证信息密度，然后以后的汇报都根据这个格式，十分钟内讲完你所有要讲的事，条理清晰。如果不经过设计，信息密度太低，就免不了说废话，听多了就会烦。

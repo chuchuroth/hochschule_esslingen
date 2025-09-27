@@ -5,6 +5,8 @@
 + 你想要对方看到一个怎样的你，你想给对方留下一个什么印象，你想要树立一个什么样的形象。是一个话也说不清楚，支支吾吾的，还是一个思维非常清晰，非常清楚自己想要什么，想要做什么的人。
 + 为什么要说这句话，你说这句话的目的是什么，你自己心里要有一个清晰的逻辑和意图。
 
+* 你有什么问题没有？ 假设你今天录取了我，那么我需要做什么才能让你在一年后回忆起今天，你觉得你做了一个正确的决定。
+
 ---
 
 1.momentan arbeite ich zusammen mit mein Freund selbstständig, wir arbeite meisten mit 3D-Druckern, wir bastelln gerade einen Industrie-3D-Drucker mit großem Bauraum für großformatige Teile wie Möbelstücke.  

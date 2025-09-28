@@ -6,3 +6,7 @@
 ---
 
 微信的内容别忘了，那是给中方老板的信息
+
+---
+
+ich wurde erst pendeln, nach ich ein passende Wohnung gefunden, dann ziehe ich um. 

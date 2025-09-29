@@ -21,6 +21,8 @@ ich wurde erst pendeln, nach ich ein passende Wohnung gefunden, dann ziehe ich u
 Funk : Übertragung signal. von sensor zu chip 
  welche Teile produziert selber, welche zugekauft. komplett im Deutschland produziert, oder von Chinese, oder dritte Firma 
 
+* integrating ai into production 
+
 ---
 ---
 ---

@@ -17,7 +17,7 @@ ich wurde erst pendeln, nach ich ein passende Wohnung gefunden, dann ziehe ich u
 在跟国内的工程师交流之前，看几篇“stm32嵌入式开发的文章”的文章，熟悉熟悉他们的思维方式
 
 Funk : Übertragung signal. von sensor zu chip 
-
+ welche Teile produziert selber, welche zugekauft. komplett im Deutschland produziert, oder von Chinese, oder dritte Firma 
 
 ---
 ---

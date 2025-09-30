@@ -24,6 +24,8 @@ Funk : Übertragung signal. von sensor zu chip
 
 * position： ai-integretor - integrating ai into production 
 
+* 我解决过什么问题
+
 ---
 ---
 ---

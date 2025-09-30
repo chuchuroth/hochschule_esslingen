@@ -3,7 +3,7 @@
 * job description , 逐条分析，推理日常工作内容： 我过去的做事方法是xxx，跟中国团队对接一些事，比如报告xxx，电路板检测xxx，生产线xxx，以及一些细小的事比如包装出错，欧盟新标准xxx，我的工作计划是xxx（dreimonatige Arbeitsplanung)。
 * 具体需要我做哪些事的对接工作？
 * ai integration engineer, prompt engineer（结构化沟通能力）， ai赋能，ai助手
-，ai驱动，ai adopters ,ai 沟通
+，ai驱动，ai adopters ,ai 沟通，跨学科信息整合能力，
 
 
 ---

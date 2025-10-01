@@ -19,8 +19,6 @@
 
 ---
 
-ich wurde erst pendeln, nach ich ein passende Wohnung gefunden, dann ziehe ich um. 
-
 
 ---
 ---
@@ -174,7 +172,7 @@ Um Ihnen einen tieferen Einblick in meine Expertise zu geben, erläutere ich hie
    Bei FAW Group entwickelte und validierte ich mechanische Systeme für Automotive-Anwendungen, inklusive FEA für Bus-Rahmen zur Optimierung von Stärke und Steifigkeit. Ich führte strukturierte Fehlanalysen, Funktionsprüfungen und Reparaturen an Steuergeräten und Sensoren durch, montierte elektronische Komponenten in Hydrauliksystemen und erstellte Testpläne gemäß Branchenstandards. Durch Prozessoptimierungen in der Sensorintegration für Antriebsstränge steigerte ich die Effizienz der Produktion. Dieses Projekt betont meine hands-on-Erfahrung in der Fertigung und Sensorvalidierung, ideal für die Analyse und Optimierung von TPMS-Produktionsprozessen.
 
 5. **Aktuelle Rolle bei Poppe Mechatronik (seit 2024)**:  
-   Derzeit führe ich Messungen und Analysen an Sensoren (Position, Geschwindigkeit, Druck, induktiv) und Aktuatoren durch, optimiere Prozesse mit MATLAB und Python und entwickle Lab-Aufbauten für mechatronische Systeme. Ich bereite technische Dokumentationen für Zertifizierungen vor und beteilige mich an der Entwicklung von Tools für Testautomatisierung und KI-gestützte Validierung. Diese Aufgaben bauen direkt auf meiner Expertise auf und bereiten mich optimal auf die Herausforderungen in der TPMS-Herstellung vor, wie z. B. die Beschaffung und Inbetriebnahme von Prüfmitteln.
+   
 
 Diese Projekte illustrieren nicht nur meine technische Tiefe, sondern auch meine Fähigkeit, innovative Lösungen zu liefern, die Kosten senken, Qualität steigern und Teams motivieren. Ich bin überzeugt, dass meine internationale Perspektive und mein Engagement für Exzellenz einen wertvollen Beitrag zu Ihrem Team leisten werden. Gerne erläutere ich Details in einem persönlichen Gespräch!
 
@@ -359,7 +357,7 @@ Vielen Dank für Ihre Anfrage! Basierend auf Ihrem Lebenslauf (aus dem cv.pdf un
 Ihr Zeugnis oder CV betont Messungen an Sensoren (Position, Geschwindigkeit, Druck, induktiv) und Aktuatoren, Datenanalyse mit MATLAB/Python, Lab-Aufbauten, technische Dokumentation und Testautomatisierung mit KI.
 
 **Erweiterte Geschichte/Aufgabe:**  
-"In meiner aktuellen Rolle bei Poppe Mechatronik, einem Spezialisten für mechatronische Systeme in der Automobil- und Elektronikbranche, war ich direkt in die Entwicklung von Labortests für Druck- und induktive Sensoren involviert. Zum Beispiel habe ich einen Testaufbau für ein neues Sensorsystem entworfen, das Position und Druck in Echtzeit misst – ähnlich wie bei TPMS-Sensoren. Die Herausforderung war, dass die Sensoren unter variierenden Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferten. Ich habe MATLAB-Skripte geschrieben, um die Rohdaten zu analysieren, Root-Cause-Analysen durchgeführt und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten erkennt und Vorhersagen trifft. Dadurch konnten wir die Fehlerquote um 18% senken. Ich habe auch die technische Dokumentation für CE-Zertifizierungen erstellt, inklusive FMEA-Analysen, und das System an das Produktionsteam übergeben. Diese Erfahrung hat mir gezeigt, wie wichtig präzise Sensorintegration für sichere Automotive-Anwendungen ist – perfekt für TPMS-Optimierungen."
+
 
 #### 2. FLEX-Elektrowerkzeuge, Steinheim (Jul 2022 – Jun 2024) – Mechatronics Engineer
 Ihr FLEX-Zeugnis beschreibt detailliert die Durchführung von Messungen, Optimierung von Teststrategien für Batterien/Sensoren/Elektrowerkzeuge, DV/PV-Tests, kundenspezifische Testsetups (z. B. Thermalvakuum-Anlagen), Teamkoordination, Prototypenvalidierung und Zertifizierungen. FLEX ist bekannt für Akku-Werkzeuge mit Drehzahlregelung, was Sensoren impliziert.

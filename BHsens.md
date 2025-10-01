@@ -388,37 +388,3 @@ Fokus: Mechanik, Hydraulik, Kraftfahrzeugtechnik, Elektronik, Sensortechnik. Bac
 
 Diese Erweiterungen sind flexibel anpassbar – üben Sie sie vor dem Spiegel, um sie natürlich klingen zu lassen. Sie betonen Erfolge (z. B. Prozentreduktionen) und Relevanz zu TPMS, um Ihren Chef zu beeindrucken. Wenn Sie mehr Details oder Anpassungen brauchen, lassen Sie es mich wissen!
 
-### Poppe Mechatronik. Backnang | Jul 2024 - Present
-
-+ Aufbau und Wartung von Laborversuchen sowie Entwicklung neuer Testmethoden für Sensoren, inklusive Druckmessungen.
-+ Durchführung von Messungen und Analysen mechanischer und elektrischer Komponenten, inklusive Fehlerdiagnose und -behebung.
-+ Erstellung und Pflege technischer Dokumentationen für Produktzulassungen, Zertifizierungen und gesetzliche Prüfungen (z. B. CE-Kennzeichnung, Umweltkonformität).
-+ Erstellung von Tools zur internen Testautomatisierung und Systemvalidierung und Technischer Anwendung mit KI-Agenten.
-
-
-### FLEX-Elektrowerkzeuge. Steinheim | Jul 2022 - Jun 2024
-
-+ Durchführung von Messungen an elektrischen und mechanischen Komponenten sowie Entwicklung und Optimierung von Teststrategien für Batterien, Sensoren und Elektrowerkzeuge, mit Fokus auf Druck- und induktive Sensoren.
-+ Durchführung von DV- und PV-Tests, Erstellung von Prüfabläufen und Berichten gemäß nationalen und internationalen Normen.
-+ Erstellung kundenspezifischer Testsetups und Vorbereitung von Testanlagen (z. B. Thermalvakuumanlagen) für Funktionstests und Validierungen.
-+ Koordination von cross-funktionalen Teams zur Umsetzung innovativer Technologien in den Bereichen Sensoren und Mechatronik-Systeme.
-+ Unterstützung bei der Prototypenfertigung und Erprobung neuer Produkte durch Validierung von Leistung, Sicherheit und Lebensdauer.
-+ Koordination von Zertifizierungsprozessen und Zusammenarbeit mit externen Laboren für Audits.
-
-
-### Hella. Changchun China | Jul 2015 - Jun 2017
-
-+ Mitarbeit an Projekten für Scheinwerfer (z. B. Audi A6), inklusive Konstruktion mechanischer Baugruppen und Simulation mechanischer Belastungen.
-+ Durchführung von Tests, Validierungen und Analysen technischer Dokumente gemäß Sicherheitsnormen und Kundenvorgaben.
-+ Unterstützung bei der Prototypenfertigung, Montage und Inbetriebnahme mechanischer Systeme, inklusive Funktionstests und Datenanalysen für Sensoren.
-+ Koordination mit internen Fachbereichen und Lieferanten für Qualitätsmanagement, Änderungsmanagement und Eskalationsprozesse.
-+ Analyse und Nachverfolgung technischer Änderungen im Produktentstehungsprozess, mit Fokus auf Sensoren und Aktuatoren in Automotive-Anwendungen.
-
-
-### FAW Group. Changchun China | Jul 2011 - Jun 2015
-
-+ Entwicklung und Validierung mechanischer Systeme für Fahrzeugtechnik, inklusive Finite-Elemente-Analyse (FEA) für Busrahmen.
-+ Durchführung von strukturierten Fehleranalysen, Funktionstests und Instandsetzungen an Steuerungseinheiten und Sensorkomponenten, einschließlich Drucksystemen.
-+ Montage und Anschluss von Elektronik- und Sensorkomponenten in Hydrauliksystemen und Baumaschinen.
-+ Erstellung von Prüfplänen und Analysen basierend auf nationalen und internationalen Normen der Automobilbranche.
-+ Optimierung von Produktionsprozessen und Unterstützung bei der Implementierung von Sensoren in Antriebssystemen.

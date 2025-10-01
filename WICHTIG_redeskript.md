@@ -25,6 +25,9 @@
 
 Er arbeite gerade zusammen mit HS Heilbronn zum entwikeln Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen, 
 
+Derzeit führe ich Messungen und Analysen an Sensoren (Position, Geschwindigkeit, Druck, induktiv) und Aktuatoren durch, optimiere Prozesse mit MATLAB und Python und entwickle Lab-Aufbauten für mechatronische Systeme. Ich bereite technische Dokumentationen für Zertifizierungen vor und beteilige mich an der Entwicklung von Tools für Testautomatisierung und KI-gestützte Validierung. Diese Aufgaben bauen direkt auf meiner Expertise auf und bereiten mich optimal auf die Herausforderungen in der TPMS-Herstellung vor, wie z. B. die Beschaffung und Inbetriebnahme von Prüfmitteln.
+"In meiner aktuellen Rolle bei Poppe Mechatronik, einem Spezialisten für mechatronische Systeme in der Automobil- und Elektronikbranche, war ich direkt in die Entwicklung von Labortests für Druck- und induktive Sensoren involviert. Zum Beispiel habe ich einen Testaufbau für ein neues Sensorsystem entworfen, das Position und Druck in Echtzeit misst – ähnlich wie bei TPMS-Sensoren. Die Herausforderung war, dass die Sensoren unter variierenden Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferten. Ich habe MATLAB-Skripte geschrieben, um die Rohdaten zu analysieren, Root-Cause-Analysen durchgeführt und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten erkennt und Vorhersagen trifft. Dadurch konnten wir die Fehlerquote um 18% senken. Ich habe auch die technische Dokumentation für CE-Zertifizierungen erstellt, inklusive FMEA-Analysen, und das System an das Produktionsteam übergeben. Diese Erfahrung hat mir gezeigt, wie wichtig präzise Sensorintegration für sichere Automotive-Anwendungen ist – perfekt für TPMS-Optimierungen."
+
 
 
 ---

@@ -23,6 +23,8 @@ Funk : Übertragung signal. von sensor zu chip
  welche Teile produziert selber, welche zugekauft. komplett im Deutschland produziert, oder von Chinese, oder dritte Firma 
 
 * position： ai-integretor - integrating ai into production 
+* ai adopter
+* 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
 
 * 我解决过什么问题
 

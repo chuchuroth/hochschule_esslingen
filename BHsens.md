@@ -4,6 +4,11 @@
 * 具体需要我做哪些事的对接工作？
 * ai integration engineer, prompt engineer（结构化沟通能力）， ai赋能，ai助手
 ，ai驱动，ai adopters ,ai 沟通，跨学科信息整合能力，
+* position： ai-integretor - integrating ai into production 
+* ai adopter
+* 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
+
+* 我用ai解决过什么问题
 
 
 ---
@@ -22,11 +27,7 @@ ich wurde erst pendeln, nach ich ein passende Wohnung gefunden, dann ziehe ich u
 Funk : Übertragung signal. von sensor zu chip 
  welche Teile produziert selber, welche zugekauft. komplett im Deutschland produziert, oder von Chinese, oder dritte Firma 
 
-* position： ai-integretor - integrating ai into production 
-* ai adopter
-* 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
 
-* 我用ai解决过什么问题
 
 ---
 ---

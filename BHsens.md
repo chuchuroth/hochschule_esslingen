@@ -26,7 +26,7 @@ Funk : Übertragung signal. von sensor zu chip
 * ai adopter
 * 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
 
-* 我解决过什么问题
+* 我用ai解决过什么问题
 
 ---
 ---

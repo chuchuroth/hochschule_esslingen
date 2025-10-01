@@ -7,8 +7,10 @@
 * position： ai-integretor - integrating ai into production 
 * ai adopter
 * 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
-
+wie kann man die Probleme lochen mithilfe von ki
 * 我用ai解决过什么问题
+
+
 
 
 ---

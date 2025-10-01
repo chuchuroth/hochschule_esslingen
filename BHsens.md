@@ -7,9 +7,9 @@
 * position： ai-integretor - integrating ai into production 
 * ai adopter
 * 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
-wie kann man die Probleme lochen mithilfe von ki
 * 我用ai解决过什么问题
 
++ Arbeitssuchende benötigen strukturierte Kommunikationsfähigkeiten sowie die Fähigkeit zur interdisziplinären Informationsintegration. Mithilfe von KI-gestützten Tools – beispielsweise durch den Einsatz eines AI-Assistenten oder AI-getriebener Prozesse – werden sie zu AI-Adoptern und können generative KI-Technologien in die Geschäftsprozesse des Unternehmens einbetten, etwa durch Prompt Engineering oder die Integration von AI-Modellen in interne Unternehmenssysteme.
 
 
 
@@ -165,7 +165,7 @@ Um Ihnen einen tieferen Einblick in meine Expertise zu geben, erläutere ich hie
    In meiner Masterarbeit am KIT habe ich ein vollständiges Entscheidungssystem für autonome Kräne entwickelt, basierend auf Robot Operating System (ROS), MATLAB, Python und C++. Das Projekt umfasste die Simulation, Prototypenbau und Validierung eines Systems, das optimale Kontrolltheorien und Maschinenlernen nutzt, um Echtzeit-Entscheidungen zu treffen – z. B. zur Kollisionsvermeidung und Lastoptimierung. Ich integrierte Sensoren für Position, Geschwindigkeit und Druck, führte umfangreiche Tests durch und optimierte Algorithmen für eine Reduzierung der Fehlerquote um 25 %. Dieses Projekt unterstreicht meine Kompetenz in der Systemintegration und Automatisierung, die direkt auf TPMS-Produktionslinien anwendbar ist, wo sensorbasierte Prozesse automatisiert werden müssen.
 
 2. **Sensor- und Aktuator-Tests bei FLEX-Elektrowerkzeuge (2022–2024)**:  
-   Als Mechatronik-Ingenieurin war ich verantwortlich für die Durchführung von Design Verification (DV) und Product Validation (PV) Tests an Batterien, Sensoren und Elektrowerkzeugen. Ich entwickelte kundenspezifische Testaufbauten, inklusive thermischer Vakuum-Systeme, und optimierte Teststrategien unter Einhaltung nationaler und internationaler Standards (z. B. ISO). Durch Datenanalyse mit MATLAB und Python identifizierte ich Root-Causes für Defekte, was zu einer Steigerung der Produktlebensdauer um 15 % führte. Zudem koordinierte ich cross-funktionale Teams für die Implementierung innovativer Sensor-Technologien und unterstützte Prototypen-Validierungen. Diese Erfahrung ist hochrelevant für TPMS, da sie ähnliche Sensortests (z. B. Druck- und Temperaturmessungen) und Prozessoptimierungen beinhaltet, um Zuverlässigkeit in der Serienproduktion zu gewährleisten.
+   
 
 3. **Kopfleuchten-Projekte bei Hella (2015–2017)**:  
    In meiner Rolle als Mechanical Engineer bei Hella in Changchun, China, war ich an der Entwicklung mechanischer Baugruppen für Audi A6-Kopfleuchten beteiligt. Ich simulierte Strukturlasten mit Finite-Element-Analyse (FEA), führte Validierungen durch und analysierte technische Dokumentationen unter Berücksichtigung von Sicherheitsstandards. Zudem unterstützte ich den Prototypenbau, die Montage und Funktionsprüfungen, inklusive Sensorintegration. Durch Zusammenarbeit mit Lieferanten und internen Abteilungen optimierte ich Qualitätsmanagement und Eskalationsprozesse, was zu einer Reduzierung von Produktionsausfällen um 20 % führte. Diese Arbeit zeigt meine Expertise in der Automotive-Sensorik und -Validierung, die nahtlos auf TPMS übertragbar ist, wo mechanische und elektronische Komponenten (z. B. Ventile und Sensoren) integriert werden.
@@ -365,7 +365,7 @@ Ihr Zeugnis oder CV betont Messungen an Sensoren (Position, Geschwindigkeit, Dru
 Ihr FLEX-Zeugnis beschreibt detailliert die Durchführung von Messungen, Optimierung von Teststrategien für Batterien/Sensoren/Elektrowerkzeuge, DV/PV-Tests, kundenspezifische Testsetups (z. B. Thermalvakuum-Anlagen), Teamkoordination, Prototypenvalidierung und Zertifizierungen. FLEX ist bekannt für Akku-Werkzeuge mit Drehzahlregelung, was Sensoren impliziert.
 
 **Erweiterte Geschichte/Aufgabe:**  
-"Bei FLEX, einem führenden Hersteller von professionellen Elektrowerkzeugen wie Akku-Exzenterschleifern mit variabler Drehzahlregelung, habe ich Teststrategien für Batterien und Sensoren optimiert. Ein konkretes Beispiel war die Validierung eines neuen Akku-Schleifers (ähnlich dem ORE 5-150 18-EC), bei dem Druck- und induktive Sensoren für die Drehzahl- und Vibrationskontrolle integriert waren. Das Problem: Unter hohen Belastungen (z. B. bei Dauerbetrieb) kam es zu Überhitzung, was die Sensoren unzuverlässig machte. Ich habe DV- und PV-Tests durchgeführt, Prüfabläufe erstellt und Berichte nach ISO-Normen verfasst. Dazu baute ich ein kundenspezifisches Testsetup mit einer Thermalvakuum-Anlage auf, um Vakuum- und Temperaturbedingungen zu simulieren. Durch Koordination eines cross-funktionalen Teams (Entwicklung, Qualität und Lieferanten) implementierten wir innovative Sensor-Technologien, die die Lebensdauer um 15% steigerten. Ich unterstützte auch die Prototypenfertigung und Zertifizierungen mit externen Labs, was zu einer erfolgreichen Markteinführung führte. Diese hands-on-Arbeit hat mir beigebracht, wie Sensorvalidierung in dynamischen Systemen – wie bei TPMS – Kosten spart und Sicherheit erhöht."
+
 
 #### 3. Hella, Changchun, China (Jul 2015 – Jun 2017) – Mechanical Engineer
 CV-Bullet Points: Beteiligung an Scheinwerfer-Projekten (z. B. Audi A6), Konstruktion mechanischer Baugruppen, Simulation von Belastungen, Tests/Validierungen, Prototypenfertigung/Montage, Teamkoordination mit Lieferanten, Änderungsmanagement mit Fokus auf Sensoren/Aktuatoren.

@@ -19,14 +19,15 @@
 
 1.momentan arbeite ich zusammen mit mein Freund selbstständig, wir arbeite meisten mit 3D-Druckern, wir bastelln gerade einen Industrie-3D-Drucker mit großem Bauraum für großformatige Teile wie Möbelstücke.  
 
-2.gemeinsam haben wir ein klein elektrische Labor Ausgestattet, ein paar  Laborgeräte beschafft ,  Spektrumanalysator,  falls osilliscope reicht nicht, Zur messung elektromagnetischer Störungen und Signalgenerator, falls bestimmte Signal braucht, und Netzgerät
+2.gemeinsam haben wir ein klein elektrische Labor Ausgestattet, ein paar Laborgeräte beschafft ,  Spektrumanalysator,  falls osilliscope reicht nicht, Zur messung elektromagnetischer Störungen und Signalgenerator, falls bestimmte Signal braucht, und Netzgerät. 
+
+4. ich führe Messungen und Analysen an Sensoren durch (Position, Geschwindigkeit, Druck, induktiv)  und Aktuatoren durch, optimiere Prozesse mit MATLAB und Python und entwickle Lab-Aufbauten für mechatronische Systeme.
 
 3.und parallel arbeite ich mit ROS und lernen weiter und  beschäftigen auch mit bastelln Roboterarme,  und ab und zu kommt Kunde besuch und bringt Geräte zur Reparatur und mach wir EMI-Tests und PCB 
 
 Er arbeite gerade zusammen mit HS Heilbronn zum entwikeln Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen, 
 
-Derzeit führe ich Messungen und Analysen an Sensoren (Position, Geschwindigkeit, Druck, induktiv) und Aktuatoren durch, optimiere Prozesse mit MATLAB und Python und entwickle Lab-Aufbauten für mechatronische Systeme. Ich bereite technische Dokumentationen für Zertifizierungen vor und beteilige mich an der Entwicklung von Tools für Testautomatisierung und KI-gestützte Validierung. Diese Aufgaben bauen direkt auf meiner Expertise auf und bereiten mich optimal auf die Herausforderungen in der TPMS-Herstellung vor, wie z. B. die Beschaffung und Inbetriebnahme von Prüfmitteln.
-"In meiner aktuellen Rolle bei Poppe Mechatronik, einem Spezialisten für mechatronische Systeme in der Automobil- und Elektronikbranche, war ich direkt in die Entwicklung von Labortests für Druck- und induktive Sensoren involviert. Zum Beispiel habe ich einen Testaufbau für ein neues Sensorsystem entworfen, das Position und Druck in Echtzeit misst – ähnlich wie bei TPMS-Sensoren. Die Herausforderung war, dass die Sensoren unter variierenden Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferten. Ich habe MATLAB-Skripte geschrieben, um die Rohdaten zu analysieren, Root-Cause-Analysen durchgeführt und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten erkennt und Vorhersagen trifft. Dadurch konnten wir die Fehlerquote um 18% senken. Ich habe auch die technische Dokumentation für CE-Zertifizierungen erstellt, inklusive FMEA-Analysen, und das System an das Produktionsteam übergeben. Diese Erfahrung hat mir gezeigt, wie wichtig präzise Sensorintegration für sichere Automotive-Anwendungen ist – perfekt für TPMS-Optimierungen."
+beispielsweise habe ich einen Testaufbau für DDS Axle Load Sensor entworfen, einen Hall-basierten Sensor, das Position und Druck in Echtzeit misst nämlich die Achslast durch Verformung der Federung . also weil die Sensoren unter variierenden Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferten. Ich habe MATLAB-Skripte geschrieben, um die Rohdaten zu analysieren, Root-Cause-Analysen durchgeführt und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können. 
 
 # RDKS-Profi
 
@@ -50,37 +51,21 @@ Derzeit führe ich Messungen und Analysen an Sensoren (Position, Geschwindigkeit
 
 7.Und in autonom Rasenmähern wird  fortschrittlichere Form, die feldorientierte Regelung 
 
-8.Ich mache auch tests , klar alle Produkte müssen von TÜV zertifiziert werden, gibts Standards für jeden aspekte, also Elektrische Leistung, Mechanische Leistung, Vibrations- und Geräuscht, Temperatur, Dauer- und Zuverlässigkeit. 
+8.Ich mache auch tests also Elektrische Leistung, Mechanische Leistung, Vibrations- und Geräuscht, Temperatur, Dauer- und Zuverlässigkeit.  Ich verfasse Berichte nach ISO-Normen,  und habe auch die technische Dokumentation für CE-Zertifizierungen erstellt, inklusive FMEA-Analysen, klar alle Produkte müssen von TÜV zertifiziert werden.
 
 9.habe eine Prüfdatenauswertungstool(data-logger) gebastellt, das ist sozusagen eine Schnittstelle zwischen Akku und Maschine, mein original Idee war während Testablauf, gibts wichtige Parameter wie Temperatur, Strom spannung oder Drehzahl muss erfasst werden ,  nämlich um Daten automatisch zu sammeln, auswerten und grafisch dargestellen und speichern und analyse. 
 
 10.Später wird diese prototyp zu universal Modul entwicklt also IoT, und in echte Produkte eingebaut um echte Arbeitsdata zu sammeln. Die idee ist, Wenn genug data , kann die Motorsteuerungsparameter weiter opetimieren. 
 
-11.Außerdem habe ich FANUC-Industrieroboter bedient und programmiert, bin mit FANUC-Toolchain habe kennengelernt.
+
+11. Ich entwickelte Testaufbauten, Ein konkretes Beispiel war die Validierung eines neuen Akku-Schleifers, Diese Tools integrieren Druck- und induktive Sensoren für Drehzahl- und Vibrationskontrolle: Speziell der induktive Hall-Sensor misst die Rotationsgeschwindigkeit des Motors, während ein piezoresistiver Drucksensor oder Accelerometer Vibrationen erfasst, um Überlast zu verhindern und die Schleifleistung zu optimieren.
+Das Problem trat unter hohen Belastungen auf, z. B. bei Dauerbetrieb über 30 Minuten mit grobem Schleifpapier auf Holzoberflächen. Die Überhitzung machte die Sensoren unzuverlässig:  Der Hall-Sensor zeigte instabile RPM-Wert, was zu unregelmäßigem Schleifen oder automatischen Abschaltungen führte. Root-Causes waren Staubansammlung in der Belüftung, die Hitze staut, oder PCB-Design-Fehler, wo Heat-Generating Components (z. B. MOSFETs) zu nah am Sensor platziert waren, was zu thermischer Drift führte . Um das zu lösen, führte ich DV- (Design Verification) und PV-Tests (Product Validation) durch, erstellte Prüfabläufe und analysierte Daten mit MATLAB und Python. Durch diese Analysen identifizierte ich die Root-Causes und optimierte die Teststrategien.
+
+baute ich auch andere Testsetup mit einer Thermalvakuum-Anlage auf, um Vakuum- und Temperaturbedingungen zu simulieren, für Wand und Deckenschleifer, die Giraffe.  
+
+
 
 12.Nebenbei habe ich auch an einige Kleine Projekte begleiten. Also Batterieprüfungen, EMV-Tests, PCB-Design und unterstützte auch die Prototypenfertigung und Zertifizierungen mit externen Labs.
-
-war ich verantwortlich für die Durchführung von Design Verification (DV) und Product Validation (PV) Tests an Batterien, Sensoren und Elektrowerkzeugen. 
-
-Ich entwickelte Testaufbauten, Ein konkretes Beispiel war die Validierung eines neuen Akku-Schleifers, 
-
-bei dem Druck- und induktive Sensoren für die Drehzahl- und Vibrationskontrolle integriert waren. 
-
-Das Problem: Unter hohen Belastungen (z. B. bei Dauerbetrieb) kam es zu Überhitzung, was die Sensoren unzuverlässig machte. 
-
-Ich habe DV- und PV-Tests durchgeführt, Durch Datenanalyse mit MATLAB und Python identifizierte ich Root-Causes für Defekte. 
-
-Häufigste Nutzungsursache, Staubansammlung und Unzureichende Belüftung, PCB-Design-Fehler (z. B. Heat-Generating Components wie MOSFETs zu nah an Sensoren platziert), führt zu Unzureichende Wärmeableitung , oder etwas Mechanisches wie Motor- oder Lager-Verschleiß . 
-
-und ich verfasse Berichte nach ISO-Normen, also nationaler und internationaler Standards 
-
-Dazu baute ich ein Testsetup mit einer Thermalvakuum-Anlage auf, um Vakuum- und Temperaturbedingungen zu simulieren, für Wand und Deckenschleifer, die Giraffe.  
-
-Zudem koordinierte ich cross-funktionale Teams für die Implementierung innovativer Sensor-Technologien und unterstützte Prototypen-Validierungen. 
-
-Diese Erfahrung ist hochrelevant für TPMS, da sie ähnliche Sensortests (z. B. Druck- und Temperaturmessungen) und Prozessoptimierungen beinhaltet, um Zuverlässigkeit in der Serienproduktion zu gewährleisten. 
-
-Durch Koordination eines cross-funktionalen Teams (Entwicklung, Qualität und Lieferanten) implementierten wir innovative Sensor-Technologien
 
 ---
 ### Hella. Changchun China | Jul 2015 - Jun 2017
@@ -140,4 +125,6 @@ Derzeit leite ich gemeinsam mit Benjamin Poppe das Start-up 'Poppe Mechatronik' 
 
 In Vorbereitung auf die ausgeschriebene Position habe ich bereits einige Vorarbeiten geleistet, als Anlage sende ich Ihnen der CV von Herr Poppe, eine Marktanalyse zur Sensorik/ Aktuatoren/ Steuergeräte im Automobilmarkt sowie vier Beispiele für Labortests(Deutsch-Chinesisch zweisprachig), dabei sehe ich den Wettbewerbsvorteil von Wodeer vor allem in einer etablierten und kostenoptimierten lokalen Lieferkette. Für gezieltere Vorschläge zu Ihren Anforderungen freue ich mich über weitere Informationen zu Ihren aktuellen Projekten.
 
+
+---
 

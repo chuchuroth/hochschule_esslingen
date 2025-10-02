@@ -17,17 +17,12 @@
 + Erstellung von Tools zur internen Testautomatisierung und Systemvalidierung und Technischer Anwendung mit KI-Agenten.
 
 
-1. momentan arbeite ich zusammen mit mein Freund selbstständig, wir arbeite meisten mit **3D-Druckern**, wir bastelln gerade einen **Industrie-3D-Drucker** mit großem Bauraum für großformatige Teile wie Möbelstücke.  
-
-2. haben ein klein **elektrische Labor** Ausgestattet, ein paar Laborgeräte beschafft,  **Spektrumanalysator**, **osilliscope**, Zur messung **elektromagnetischer Störungen** und **Signalgenerator**, falls bestimmte Signal braucht, und **Netzgerät**, **CNC maschine**, **Lötenstation**
-
-3. damit kann man basis **Messungen und Analysen an Sensoren und Aktuatoren** durchführen.
-
-4. ich entwickle auch **Teststation** für **mechatronische Systeme**. beispielsweise damals bekommen wir ein Auftrag von HS Heibronn, habe ich einen Testaufbau für **DDS Axle Load Sensor** entworfen, einen **Hall-basierten** Sensor, der kann **Position und Druck** in Echtzeit messen nämlich die **Achslast durch Verformung der Federung**. also weil die Sensoren kann **unter extreme Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferen**, da muss man Test machen und **Root-Cause-Analysen** durchgeführen. Ich habe MATLAB-Skripte geschrieben, um die daten zu analysieren, und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können.
-
-5. haben auch ein paar andere Projekte, zum Beispiel **Entwikeln eine Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen**, die wird aber meisten von meinen Kollegen durchführen
-6. parallel arbeite ich weiter mit ROS und bastelln Roboterarme, die Arbeit habe ich angefangen von KIT
-7. ab und zu kommt private Kunde zum besuch und bringt Geräte zur Reparatur und mach wir Tests und reparieren elektronik
+1. momentan arbeite ich zusammen mit mein Freund selbstständig, wir arbeite meisten mit **3D-Druckern**, wir bastelln gerade einen **Industrie-3D-Drucker** mit großem Bauraum für großformatige Teile wie Möbelstücke.
+2. haben ein klein **elektrische Labor** Ausgestattet, ein paar Laborgeräte beschafft, damit kann man basis **Messungen und Analysen an Sensoren und Aktuatoren** durchführen.  **Spektrumanalysator**, **osilliscope**, Zur messung **elektromagnetischer Störungen** und **Signalgenerator**, falls bestimmte Signal braucht, und **Netzgerät**, **CNC maschine**, **Lötenstation**
+3. ich entwickle auch **Teststation** für **mechatronische Systeme**. beispielsweise damals bekommen wir ein Auftrag von HS Heibronn, habe ich einen Testaufbau für **DDS Axle Load Sensor** entworfen, einen **Hall-basierten** Sensor, der kann **Position und Druck** in Echtzeit messen nämlich die **Achslast durch Verformung der Federung**. also weil die Sensoren kann **unter extreme Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferen**, da muss man Test machen und **Root-Cause-Analysen** durchgeführen. Ich habe MATLAB-Skripte geschrieben, um die daten zu analysieren, und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können.
+4. haben auch ein paar andere Projekte, zum Beispiel **Entwikeln eine Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen**, die wird aber meisten von meinen Kollegen durchführen
+5. parallel arbeite ich weiter mit ROS und bastelln Roboterarme, die Arbeit habe ich angefangen von KIT
+6. ab und zu kommt private Kunde zum besuch und bringt Geräte zur Reparatur und mach wir Tests und reparieren elektronik
 
 
 
@@ -65,9 +60,9 @@
 
 
 
-13.Bei HELLA war ich für CAD-Zeichnung verantwortlich und habe Konstruktionspläne vor der Freigabe nach Standards überprüft. 
+Bei HELLA war ich für **CAD-Zeichnung** verantwortlich und überprüfe **Konstruktionspläne** vor der Freigabe nach Standards
 
-14.Zusätzlich habe ich in der Planung von Scheinwerfer-Produktionslinien mitgearbeitet und dabei Erfahrungen mit SPS-Programmierung, Stromlaufplänen und fehlersuchen, und dabei habe erfahrung mit siemens TIA gesammelt. 
+Zusätzlich habe ich in der **Process Planung** von Scheinwerfer-Produktionslinien mitgearbeitet und dabei Erfahrungen mit **SPS-Programmierung, Stromlaufplänen** und fehlersuchen, und dabei habe erfahrung mit **siemens TIA** gesammelt. 
 
 ---
 

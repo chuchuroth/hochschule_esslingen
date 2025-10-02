@@ -17,17 +17,19 @@
 + Erstellung von Tools zur internen Testautomatisierung und Systemvalidierung und Technischer Anwendung mit KI-Agenten.
 
 
-1.momentan arbeite ich zusammen mit mein Freund selbstständig, wir arbeite meisten mit 3D-Druckern, wir bastelln gerade einen Industrie-3D-Drucker mit großem Bauraum für großformatige Teile wie Möbelstücke.  
+1. momentan arbeite ich zusammen mit mein Freund selbstständig, wir arbeite meisten mit **3D-Druckern**, wir bastelln gerade einen **Industrie-3D-Drucker** mit großem Bauraum für großformatige Teile wie Möbelstücke.  
 
-2.gemeinsam haben wir ein klein elektrische Labor Ausgestattet, ein paar Laborgeräte beschafft ,  Spektrumanalysator,  falls osilliscope reicht nicht, Zur messung elektromagnetischer Störungen und Signalgenerator, falls bestimmte Signal braucht, und Netzgerät. 
+2. haben ein klein **elektrische Labor** Ausgestattet, ein paar Laborgeräte beschafft,  **Spektrumanalysator**, **osilliscope**, Zur messung **elektromagnetischer Störungen** und **Signalgenerator**, falls bestimmte Signal braucht, und **Netzgerät**, **CNC maschine**, **Lötenstation**
 
-4. ich führe Messungen und Analysen an Sensoren durch (Position, Geschwindigkeit, Druck, induktiv)  und Aktuatoren durch, optimiere Prozesse mit MATLAB und Python und entwickle Lab-Aufbauten für mechatronische Systeme.
+3. damit kann man basis **Messungen und Analysen an Sensoren und Aktuatoren** durchführen.
 
-3.und parallel arbeite ich mit ROS und lernen weiter und  beschäftigen auch mit bastelln Roboterarme,  und ab und zu kommt Kunde besuch und bringt Geräte zur Reparatur und mach wir EMI-Tests und PCB 
+4. ich entwickle auch **Teststation** für **mechatronische Systeme**. beispielsweise damals bekommen wir ein Auftrag von HS Heibronn, habe ich einen Testaufbau für **DDS Axle Load Sensor** entworfen, einen **Hall-basierten** Sensor, der kann **Position und Druck** in Echtzeit messen nämlich die **Achslast durch Verformung der Federung**. also weil die Sensoren kann **unter extreme Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferen**, da muss man Test machen und **Root-Cause-Analysen** durchgeführen. Ich habe MATLAB-Skripte geschrieben, um die daten zu analysieren, und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können.
 
-Er arbeite gerade zusammen mit HS Heilbronn zum entwikeln Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen, 
+5. haben auch ein paar andere Projekte, zum Beispiel **Entwikeln eine Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen**, die wird aber meisten von meinen Kollegen durchführen
+6. parallel arbeite ich weiter mit ROS und bastelln Roboterarme, die Arbeit habe ich angefangen von KIT
+7. ab und zu kommt private Kunde zum besuch und bringt Geräte zur Reparatur und mach wir Tests und reparieren elektronik
 
-beispielsweise habe ich einen Testaufbau für DDS Axle Load Sensor entworfen, einen Hall-basierten Sensor, das Position und Druck in Echtzeit misst nämlich die Achslast durch Verformung der Federung . also weil die Sensoren unter variierenden Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferten. Ich habe MATLAB-Skripte geschrieben, um die Rohdaten zu analysieren, Root-Cause-Analysen durchgeführt und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können. 
+
 
 # RDKS-Profi
 
@@ -43,29 +45,14 @@ beispielsweise habe ich einen Testaufbau für DDS Axle Load Sensor entworfen, ei
 + Koordination von Zertifizierungsprozessen und Zusammenarbeit mit externen Laboren für Audits.
 
 
-4.Vorher war bei FLEX da war ich in der Entwicklung tätig, und habe an ein paar Produkte mitgemacht. habe einem autonomen Rasenmäher prototyp gebaut, mein aufgaben ist software, 
-
-5.und meisten beschäftigt mich mit Motorsteuerung, Der ist auch wichtigste Teil beim Design von Elektrowerkzeugen, wie Akku-Exzenterschleifern mit variabler Drehzahlregelung , gründsätzlich gibts drei arten , einmal die einfachsten Six-Step,  PWM-Signale im offenen Regelkreis, ohne feedback, zum Beispiel Laubbläser, Kettensägen oder Gartenscheren , Elektrowerkzeugen mit geringen Genauigkeitsanforderungen
-
-6.Dann regelungsverfahren mit feedback signal, also hallsensor , Geschlossene PWM-drehmomentregelung und Drehzahlregelung also Eingesetzt in Werkzeugen mit höheren Genauigkeitsanforderungen, wie z. B. Bohrmaschinen , Schleifer oder Polierer.
-
-7.Und in autonom Rasenmähern wird  fortschrittlichere Form, die feldorientierte Regelung 
-
-8.Ich mache auch tests also Elektrische Leistung, Mechanische Leistung, Vibrations- und Geräuscht, Temperatur, Dauer- und Zuverlässigkeit.  Ich verfasse Berichte nach ISO-Normen,  und habe auch die technische Dokumentation für CE-Zertifizierungen erstellt, inklusive FMEA-Analysen, klar alle Produkte müssen von TÜV zertifiziert werden.
-
-9.habe eine Prüfdatenauswertungstool(data-logger) gebastellt, das ist sozusagen eine Schnittstelle zwischen Akku und Maschine, mein original Idee war während Testablauf, gibts wichtige Parameter wie Temperatur, Strom spannung oder Drehzahl muss erfasst werden ,  nämlich um Daten automatisch zu sammeln, auswerten und grafisch dargestellen und speichern und analyse. 
-
-10.Später wird diese prototyp zu universal Modul entwicklt also IoT, und in echte Produkte eingebaut um echte Arbeitsdata zu sammeln. Die idee ist, Wenn genug data , kann die Motorsteuerungsparameter weiter opetimieren. 
-
-
-11. Ich entwickelte Testaufbauten, Ein konkretes Beispiel war die Validierung eines neuen Akku-Schleifers, Diese Tools integrieren Druck- und induktive Sensoren für Drehzahl- und Vibrationskontrolle: Speziell der induktive Hall-Sensor misst die Rotationsgeschwindigkeit des Motors, während ein piezoresistiver Drucksensor oder Accelerometer Vibrationen erfasst, um Überlast zu verhindern und die Schleifleistung zu optimieren.
-Das Problem trat unter hohen Belastungen auf, z. B. bei Dauerbetrieb über 30 Minuten mit grobem Schleifpapier auf Holzoberflächen. Die Überhitzung machte die Sensoren unzuverlässig:  Der Hall-Sensor zeigte instabile RPM-Wert, was zu unregelmäßigem Schleifen oder automatischen Abschaltungen führte. Root-Causes waren Staubansammlung in der Belüftung, die Hitze staut, oder PCB-Design-Fehler, wo Heat-Generating Components (z. B. MOSFETs) zu nah am Sensor platziert waren, was zu thermischer Drift führte . Um das zu lösen, führte ich DV- (Design Verification) und PV-Tests (Product Validation) durch, erstellte Prüfabläufe und analysierte Daten mit MATLAB und Python. Durch diese Analysen identifizierte ich die Root-Causes und optimierte die Teststrategien.
-
-baute ich auch andere Testsetup mit einer Thermalvakuum-Anlage auf, um Vakuum- und Temperaturbedingungen zu simulieren, für Wand und Deckenschleifer, die Giraffe.  
-
-
-
-12.Nebenbei habe ich auch an einige Kleine Projekte begleiten. Also Batterieprüfungen, EMV-Tests, PCB-Design und unterstützte auch die Prototypenfertigung und Zertifizierungen mit externen Labs.
+1. bei FLEX da war ich in der Entwicklung tätig, und habe an ein paar Produkte mitgemacht. habe einem **autonomen Rasenmäher prototyp** gebaut, meistens in software
+2. und mit **Motorsteuerung** habe viel arbeit eingesetzt, Der ist auch wichtigste Teil beim Design von **Elektrowerkzeugen**, wie **Akku-Exzenterschleifern mit variabler Drehzahlregelung** , gründsätzlich gibts drei arten , die einfachsten ist ohne feedback, also **PWM-Signale im offenen Regelkreis**, zum Beispiel **Laubbläser, Kettensägen oder Gartenscheren** , Elektrowerkzeugen mit **geringen Genauigkeitsanforderungen**
+3. Dann regelungsverfahren mit feedback signal, also **hallsensor** , **Geschlossene PWM-drehmomentregelung und Drehzahlregelung** , Eingesetzt in Werkzeugen mit **höheren Genauigkeitsanforderungen**, wie z. B. **Bohrmaschinen , Schleifer oder Polierer**
+4. gibts noch fortschrittlichere Form, nämlich die **feldorientierte Regelung** , die wird eingesetzt in **autonom Rasenmähern**
+5. Ich mache auch viel tests , also **Elektrische Leistung, Mechanische Leistung, Vibrations- und Geräuscht, Temperatur, Dauer- und Zuverlässigkeit**. ich mach **FMEA-Analysen** und **erstellen technische Dokumentation für CE-Zertifizierungen, verfasse Berichte nach ISO-Norm**
+6. entwickele auch **Testaufbau**, Ein konkretes Beispiel war die **Validierung eines Akku-Schleifers**, Die integrieren **Druck- und induktive hall Sensoren**, zum Messen die **Rotationsgeschwindigkeit des Motors**. wenn **unter hohen Belastungen** wird **Überhitzung** auftreten und das macht die Sensoren **unzuverlässig** und **instabil**, und das fürht zu **automatischen Abschaltungen** des Power Tools. Dann mache ich Tests und such das **Root-Cause**, ob **Staubansammlung in der Belüftung**, wo die Hitze staut, oder **PCB-Design-Fehler**, wo Heat-Generating Components (z. B. MOSFETs) zu nah am Sensor platziert waren, was zu thermischer Drift führte. Um die problem zu lösen, manchmal ist notwendig die **DV- (Design Verification) und PV-Tests (Product Validation)** durchzuführen, **Prüfabläufe** zu erstellen und **Data Analyse mit MATLAB und Python**. here ein beispiel.
+7. dazwischen habe ich ein Idee weil **während Testablauf**, gibts wichtige Parameter wie **Temperatur, Strom, spannung Drehzahl geschwindigkeit** und solche data sammlen man immer manual, also ich habe den Idee die Daten auf irgendein Arten **automatisch** zu sammeln, und da kommt die **Datalogger**, das ist eine Schnittstelle zwischen Akku und Maschine, diese tool kann automatisch data erfassen, auswerten und grafisch dargestellen und speichern und später analyse. die Prototyp kann auch in echte Produkte eingebaut werden um echte Arbeitsdata zu sammeln. Die idee ist, Wenn genug data, kann die Motorsteuerungsparameter weiter opetimieren.
+8. Nebenbei habe ich auch an einige Kleine Projekte begleiten. Also **Batterieprüfungen, EMV** und unterstützte auch die **Prototypenfertigung und Zertifizierungen mit externen Labs**.
 
 ---
 ### Hella. Changchun China | Jul 2015 - Jun 2017

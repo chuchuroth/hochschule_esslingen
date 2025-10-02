@@ -8,6 +8,7 @@
 * ai adopter
 * 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
 * 我用ai解决过什么问题
+* 搜十家公司，每家公司写两万字的报告，包括：这家公司所有公开的信息，财报，产品，这家公司LinkedIn的员工，组织架构，并按研发能力进行排行
 
 + Arbeitssuchende benötigen strukturierte Kommunikationsfähigkeiten sowie die Fähigkeit zur interdisziplinären Informationsintegration. Mithilfe von KI-gestützten Tools – beispielsweise durch den Einsatz eines AI-Assistenten oder AI-getriebener Prozesse – werden sie zu AI-Adoptern und können generative KI-Technologien in die Geschäftsprozesse des Unternehmens einbetten, etwa durch Prompt Engineering oder die Integration von AI-Modellen in interne Unternehmenssysteme.
 

@@ -7,7 +7,14 @@
 * 我用ai解决过什么问题
 
 
-+ Arbeitssuchende benötigen strukturierte Kommunikationsfähigkeiten sowie die Fähigkeit zur interdisziplinären Informationsintegration. Mithilfe von KI-gestützten Tools – beispielsweise durch den Einsatz eines AI-Assistenten oder AI-getriebener Prozesse – werden sie zu AI-Adoptern und können generative KI-Technologien in die Geschäftsprozesse des Unternehmens einbetten, etwa durch Prompt Engineering oder die Integration von AI-Modellen in interne Unternehmenssysteme.
++ strukturierte Kommunikationsfähigkeiten
++ interdisziplinären Informationsintegration
++ KI-gestützten Tools
++ AI-getriebener Prozesse
++ Einsatz eines AI-Assistenten
++ AI-Adoptern
++ Einbetten generative KI-Technologien in die Geschäftsprozesse des Unternehmens 
++ Integration von AI-Modellen in interne Unternehmenssysteme
 
 
 

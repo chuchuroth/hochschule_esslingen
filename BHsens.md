@@ -1,14 +1,11 @@
 * 简历-> 项目介绍 （三语，以防万一需要和中方同时进行面试）
-* 胎压监测系统方面的了解，工艺流程，涉及哪些机器设备，哪些常见的技术问题，如何解决（grok）
+
 * job description , 逐条分析，推理日常工作内容： 我过去的做事方法是xxx，跟中国团队对接一些事，比如报告xxx，电路板检测xxx，生产线xxx，以及一些细小的事比如包装出错，欧盟新标准xxx，我的工作计划是xxx（dreimonatige Arbeitsplanung)。
-* 具体需要我做哪些事的对接工作？
-* ai integration engineer, prompt engineer（结构化沟通能力）， ai赋能，ai助手
-，ai驱动，ai adopters ,ai 沟通，跨学科信息整合能力，
-* position： ai-integretor - integrating ai into production 
-* ai adopter
+  
+* ai integration engineer, prompt engineer（结构化沟通能力）， ai赋能，ai助手   ai驱动，ai adopters ,ai 沟通，跨学科信息整合能力，position： ai-integretor - integrating ai into production  ai adopter
 * 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
 * 我用ai解决过什么问题
-* 搜十家公司，每家公司写两万字的报告，包括：这家公司所有公开的信息，财报，产品，这家公司LinkedIn的员工，组织架构，并按研发能力进行排行
+
 
 + Arbeitssuchende benötigen strukturierte Kommunikationsfähigkeiten sowie die Fähigkeit zur interdisziplinären Informationsintegration. Mithilfe von KI-gestützten Tools – beispielsweise durch den Einsatz eines AI-Assistenten oder AI-getriebener Prozesse – werden sie zu AI-Adoptern und können generative KI-Technologien in die Geschäftsprozesse des Unternehmens einbetten, etwa durch Prompt Engineering oder die Integration von AI-Modellen in interne Unternehmenssysteme.
 

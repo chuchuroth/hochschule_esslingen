@@ -1,9 +1,9 @@
 * 简历-> 项目介绍 （三语，以防万一需要和中方同时进行面试, 如果是中文和中国人交流，观点的表达更重要，如果是英语或德语，那么语言组织更重要，句子要通顺，观点在其次）
 
-* job description , 逐条分析，推理日常工作内容： 我过去的做事方法是xxx，跟中国团队对接一些事，比如报告xxx，电路板检测xxx，生产线xxx，以及一些细小的事比如包装出错，欧盟新标准xxx，我的工作计划是xxx（dreimonatige Arbeitsplanung)。
+* 我过去的做事方法是xxx，跟中国团队对接一些事，比如报告xxx，电路板检测xxx，生产线xxx，以及一些细小的事比如包装出错，欧盟新标准xxx，我的工作计划是xxx（dreimonatige Arbeitsplanung)。
   
-* ai integration engineer, prompt engineer（结构化沟通能力）， ai赋能，ai助手   ai驱动，ai adopters ,ai 沟通，跨学科信息整合能力，position： ai-integretor - integrating ai into production  ai adopter
-* 负责将生成式 AI 技术真正嵌入到公司业务流程里,比如提示词工程师，或者负责把 AI 模型接入内部系统
+
+
 * 我用ai解决过什么问题
 
 
@@ -14,7 +14,7 @@
 + Einsatz eines AI-Assistenten
 + AI-Adoptern
 + Einbetten generative KI-Technologien in die Geschäftsprozesse des Unternehmens 
-+ Integration von AI-Modellen in interne Unternehmenssysteme
++ Integration von AI-Modellen in interne Unternehmenssysteme inkl Produktion
 
 
 

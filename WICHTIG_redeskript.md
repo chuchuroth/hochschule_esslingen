@@ -89,6 +89,53 @@
 16. habe ich in der **Process Planung** von Scheinwerfer-Produktionslinien mitgearbeitet und dabei Erfahrungen mit **SPS-Programmierung, Stromlaufplänen** und fehlersuchen, und dabei habe erfahrung mit **siemens TIA** gesammelt.
 
 
+
+---
+
+1. Momentan arbeite ich zusammen mit meinem Kollegen selbstständig. Wir haben hier in Backnang eine kleine Werkstatt gemietet. Meistens arbeiten wir mit **3D-Druckern** – gerade basteln wir an einem **Industrie-3D-Drucker** mit großem Bauraum, um auch größere Teile wie Möbelstücke drucken zu können.
+
+2. Wir haben außerdem ein kleines **elektrisches Labor** eingerichtet und ein paar Geräte besorgt – damit kann man **Messungen und Analysen an Sensoren und Aktuatoren** machen. Also so Sachen wie **Spektrumanalysator**, **Oszilloskop** (für **elektromagnetische Störungen**), **Signalgenerator**, **Netzgerät**, **CNC-Maschine** und **Lötstation** sind da am Start.
+
+3. Ab und zu bekommen wir auch Aufträge, zum Beispiel von der Hochschule Heilbronn. Da entwickeln wir **Versuchsstände**, aktuell z. B. einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** – den Teil übernimmt meistens mein Kollege.
+
+4. Ich selbst entwickle auch **Teststationen für mechatronische Systeme**. Zum Beispiel hab ich einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**.
+   Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.
+
+5. Parallel arbeite ich weiter mit **ROS** und bastle an **Roboterarmen** – das Projekt hab ich damals am **KIT** angefangen.
+
+6. Ab und zu kommt auch mal ein **Privatkunde** vorbei, bringt Geräte zur Reparatur, und dann machen wir Tests und reparieren die Elektronik.
+
+7. Davor war ich bei **FLEX** in der Entwicklung. Da hab ich an mehreren Produkten mitgearbeitet und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.
+
+8. Besonders viel hab ich mit **Motorsteuerungen** gearbeitet – das ist ja der wichtigste Teil bei **Elektrowerkzeugen**, zum Beispiel bei **Akku-Exzenterschleifern mit variabler Drehzahlregelung**.
+   Grundsätzlich gibt’s da drei Arten:
+
+   * Die einfachste ist **ohne Feedback**, also **PWM-Signale im offenen Regelkreis** – das findet man z. B. bei **Laubbläsern, Kettensägen oder Gartenscheren**, wo’s auf Präzision nicht so ankommt.
+
+9. Dann gibt’s Systeme **mit Feedback**, also z. B. mit **Hallsensoren**, wo man eine **geschlossene PWM-Drehmoment- und Drehzahlregelung** hat. Das wird bei Werkzeugen mit **höheren Genauigkeitsanforderungen** eingesetzt, etwa bei **Bohrmaschinen, Schleifern oder Polierern**.
+
+10. Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die kommt z. B. bei **autonomen Rasenmähern** zum Einsatz.
+
+11. Ich mach auch viele **Tests** – also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**. Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**.
+
+12. Ich entwickle auch **Testaufbauten**. Ein Beispiel war die **Validierung eines Akku-Schleifers**:
+    Da sind **Druck- und induktive Hallsensoren** integriert, um die **Motordrehzahl** zu messen. Unter **hoher Belastung** kann’s da zu **Überhitzung** kommen, wodurch die Sensoren **instabil** werden – dann schaltet das Gerät automatisch ab.
+    Ich hab dann Tests gemacht, um den **Root Cause** zu finden – z. B. ob sich **Staub in der Belüftung sammelt**, oder ob’s am **PCB-Design** lag (wenn z. B. MOSFETs zu nah am Sensor sitzen → **thermische Drift**).
+    Um solche Probleme zu lösen, macht man dann **DV- (Design Verification)** und **PV-Tests (Product Validation)**, erstellt **Prüfabläufe** und macht **Datenanalyse mit MATLAB und Python**.
+
+13. Dabei kam mir auch eine Idee:
+    Während der Tests muss man ständig Parameter wie **Temperatur, Strom, Spannung oder Drehzahl** manuell mitschreiben – total nervig.
+    Also hab ich die Idee gehabt, das Ganze **automatisch zu erfassen** – mit einem **Datalogger**. Das ist eine Schnittstelle zwischen Akku und Maschine, die automatisch Daten aufnimmt, auswertet, grafisch darstellt und speichert.
+    Der Prototyp kann sogar direkt in echte Geräte eingebaut werden, um **Live-Daten im Betrieb** zu sammeln. Mit genug Daten kann man dann die **Motorsteuerung noch weiter optimieren**.
+
+14. Nebenbei begleite ich auch **kleinere Projekte**, z. B. **Batterieprüfungen**, **EMV-Tests** und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
+
+15. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
+
+16. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
+
+
+
 # Teil 2
 
 

@@ -87,8 +87,14 @@ Reifendruckkontrollsysteme (TPMS) sind elektronische Systeme, die den Luftdruck 
 
 
 
+# ich habe dreimonatig arbeitsplan erstellt...
 
-
+**Rolle:** Prozess- und Fertigungsingenieur (fiktiver Titel basierend auf der Beschreibung)
+**Ziel:** Nach drei Monaten die Kernprozesse, Produkte (RDKS) und Ansprechpartner zu kennen, erste kleinere Projekte eigenständig zu bearbeiten und einen konkreten Beitrag zur Prozessoptimierung zu leisten.
+Das Hauptziel des ersten Monats ist es, das Unternehmen, die Produkte, die Prozesse und die Menschen kennenzulernen. Sie sind primär im "Zuhör- und Lernmodus".
+Sie beginnen, Ihr Wissen anzuwenden, indem Sie bei laufenden Projekten unterstützen und erste eigene Analysen durchführen.
+Sie übernehmen die volle Verantwortung für ein erstes, überschaubares Projekt und beginnen, proaktiv Verbesserungsvorschläge zu machen.
+Dieser Plan ist ein ambitionierter, aber realistischer Rahmen. Er zeigt, dass Sie nicht nur darauf warten, Aufgaben zu erhalten, sondern Ihre Einarbeitung aktiv gestalten und schnell einen Mehrwert für das Unternehmen schaffen wollen. Viel Erfolg!
 
 
 

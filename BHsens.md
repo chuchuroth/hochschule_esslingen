@@ -166,14 +166,12 @@ Hier ist ein Vorschlag für einen detaillierten Einarbeitungsplan, der in drei P
 
 ### **Detaillierter 3-Monats-Einarbeitungsplan**
 
-**Rolle:** Prozess- und Fertigungsingenieur (fiktiver Titel basierend auf der Beschreibung)
-**Ziel:** Nach drei Monaten die Kernprozesse, Produkte (RDKS) und Ansprechpartner zu kennen, erste kleinere Projekte eigenständig zu bearbeiten und einen konkreten Beitrag zur Prozessoptimierung zu leisten.
 
 ---
 
 ### **Monat 1: Orientierung & Wissensaufbau (Lernen und Verstehen)**
 
-Das Hauptziel des ersten Monats ist es, das Unternehmen, die Produkte, die Prozesse und die Menschen kennenzulernen. Sie sind primär im "Zuhör- und Lernmodus".
+
 
 | Woche | Schwerpunkt | Konkrete Aufgaben und Ziele |
 | :--- | :--- | :--- |
@@ -186,7 +184,6 @@ Das Hauptziel des ersten Monats ist es, das Unternehmen, die Produkte, die Proze
 
 ### **Monat 2: Integration & Anwendung (Mitwirken und Analysieren)**
 
-Sie beginnen, Ihr Wissen anzuwenden, indem Sie bei laufenden Projekten unterstützen und erste eigene Analysen durchführen.
 
 | Woche | Schwerpunkt | Konkrete Aufgaben und Ziele |
 | :--- | :--- | :--- |
@@ -198,7 +195,7 @@ Sie beginnen, Ihr Wissen anzuwenden, indem Sie bei laufenden Projekten unterstü
 
 ### **Monat 3: Erste Eigenverantwortung & Optimierung (Handeln und Verbessern)**
 
-Sie übernehmen die volle Verantwortung für ein erstes, überschaubares Projekt und beginnen, proaktiv Verbesserungsvorschläge zu machen.
+
 
 | Woche | Schwerpunkt | Konkrete Aufgaben und Ziele |
 | :--- | :--- | :--- |
@@ -207,7 +204,7 @@ Sie übernehmen die volle Verantwortung für ein erstes, überschaubares Projekt
 
 ---
 
-Dieser Plan ist ein ambitionierter, aber realistischer Rahmen. Er zeigt, dass Sie nicht nur darauf warten, Aufgaben zu erhalten, sondern Ihre Einarbeitung aktiv gestalten und schnell einen Mehrwert für das Unternehmen schaffen wollen. Viel Erfolg!
+
 
 ---
 Sollen wir als Nächstes typische Interviewfragen für eine solche Position durchgehen? Oder möchten Sie vielleicht eine prägnante Zusammenfassung dieses Plans für ein Bewerbungsgespräch formulieren?

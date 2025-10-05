@@ -87,9 +87,8 @@
 6. entwickele auch **Testaufbau**, Ein konkretes Beispiel war die **Validierung eines Akku-Schleifers**, Die integrieren **Druck- und induktive hall Sensoren**, zum Messen die **Rotationsgeschwindigkeit des Motors**. wenn **unter hohen Belastungen** wird **Überhitzung** auftreten und das macht die Sensoren **unzuverlässig** und **instabil**, und das fürht zu **automatischen Abschaltungen** des Power Tools. Dann mache ich Tests und such das **Root-Cause**, ob **Staubansammlung in der Belüftung**, wo die Hitze staut, oder **PCB-Design-Fehler**, wo Heat-Generating Components (z. B. MOSFETs) zu nah am Sensor platziert waren, was zu thermischer Drift führte. Um die problem zu lösen, manchmal ist notwendig die **DV- (Design Verification) und PV-Tests (Product Validation)** durchzuführen, **Prüfabläufe** zu erstellen und **Data Analyse mit MATLAB und Python**. here ein beispiel.
 7. dazwischen habe ich ein Idee weil **während Testablauf**, gibts wichtige Parameter wie **Temperatur, Strom, spannung Drehzahl geschwindigkeit** und solche data sammlen man immer manual, also ich habe den Idee die Daten auf irgendein Arten **automatisch** zu sammeln, und da kommt die **Datalogger**, das ist eine Schnittstelle zwischen Akku und Maschine, diese tool kann automatisch data erfassen, auswerten und grafisch dargestellen und speichern und später analyse. die Prototyp kann auch in echte Produkte eingebaut werden um echte Arbeitsdata zu sammeln. Die idee ist, Wenn genug data, kann die Motorsteuerungsparameter weiter opetimieren.
 8. Nebenbei habe ich auch an einige Kleine Projekte begleiten. Also **Batterieprüfungen, EMV** und unterstützte auch die **Prototypenfertigung und Zertifizierungen mit externen Labs**.
-
-Bei HELLA war ich für **CAD-Zeichnung** verantwortlich und überprüfe **Konstruktionspläne** vor der Freigabe nach Standards
-
+9. vorher bei hella war ich für **CAD-Zeichnung** verantwortlich und überprüfe **Konstruktionspläne** vor der Freigabe nach Standards.
+10. habe ich in der **Process Planung** von Scheinwerfer-Produktionslinien mitgearbeitet und dabei Erfahrungen mit **SPS-Programmierung, Stromlaufplänen** und fehlersuchen, und dabei habe erfahrung mit **siemens TIA** gesammelt.
 
 
 # Teil 2
@@ -126,7 +125,7 @@ Von der Data-Perspektive: Geeignete KI-gestützte Tools für Erfassung, Analyse 
 
 ### Frage?
 
-also ich habe Ihre Profil von Website gelesen, also BH sens ist seit 6 Jahre gegründet, damals bestimmt Baolong kennengelernt, erzähl bisl darüber. 
+also ich habe Ihre Profil von Website gelesen, also BH sens ist seit 6 Jahre gegründet, d.h damals hat mit Baolong kooperiert, was ist passiert , warum kommen die chinesisen, erzähl bisl darüber. 
 
 * Arno Fuchs 
 

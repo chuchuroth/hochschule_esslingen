@@ -10,6 +10,9 @@
 
 
 ---
+---
+
+# Teil 1
 
 
 ### Poppe Mechatronik. Backnang | Jul 2024 - Present
@@ -79,6 +82,9 @@ Zusätzlich habe ich in der **Process Planung** von Scheinwerfer-Produktionslini
 
 
 ---
+---
+
+# Teil 2
 
 
 # was sind RDKS
@@ -87,24 +93,42 @@ Reifendruckkontrollsysteme (TPMS) sind elektronische Systeme, die den Luftdruck 
 
 # ich habe dreimonatig arbeitsplan erstellt...
 
-**Rolle:** Prozess- und Fertigungsingenieur (fiktiver Titel basierend auf der Beschreibung)
+ich habe mein Rolle so verstanden,**Rolle:** Prozess- und Fertigungsingenieur 
 **Ziel:** Nach drei Monaten die Kernprozesse, Produkte (RDKS) und Ansprechpartner zu kennen, erste kleinere Projekte eigenständig zu bearbeiten und einen konkreten Beitrag zur Prozessoptimierung zu leisten.
-Das Hauptziel des ersten Monats ist es, das Unternehmen, die Produkte, die Prozesse und die Menschen kennenzulernen. Sie sind primär im "Zuhör- und Lernmodus".
+Das Hauptziel des ersten Monats ist es, das Unternehmen, die Produkte, die Prozesse und die Menschen kennenzulernen. 
 Sie beginnen, Ihr Wissen anzuwenden, indem Sie bei laufenden Projekten unterstützen und erste eigene Analysen durchführen.
 Sie übernehmen die volle Verantwortung für ein erstes, überschaubares Projekt und beginnen, proaktiv Verbesserungsvorschläge zu machen.
-Dieser Plan ist ein ambitionierter, aber realistischer Rahmen. Er zeigt, dass Sie nicht nur darauf warten, Aufgaben zu erhalten, sondern Ihre Einarbeitung aktiv gestalten und schnell einen Mehrwert für das Unternehmen schaffen wollen. Viel Erfolg!
 
-"Ich habe mir bereits Gedanken gemacht, wie ich mich in den ersten drei Monaten strukturiert einarbeiten und schnell einen Mehrwert für Ihr Team schaffen kann. Mein Plan gliedert sich in drei Phasen:
+Einarbeitung aktiv gestalten
 
-*   **Im ersten Monat – die Orientierungsphase –** würde ich mich voll darauf konzentrieren, Ihr Unternehmen, die RDKS-Produkte und vor allem die Fertigungsprozesse im Detail zu verstehen. Mein Ziel ist es, durch Hospitationen in der Produktion und Gespräche mit den Kollegen den gesamten Wertstrom von der Komponente bis zum fertigen Sensor nachzuvollziehen.
+"Ich habe mir bereits Gedanken gemacht, wie ich mich in den ersten drei Monaten strukturiert einarbeiten und schnell einen Mehrwert für Ihr Team schaffen kann.
+
+Mein Plan gliedert sich in drei Phasen:
+
+in dem ersten Monat, nämlich "Orientierungsphase", würde ich mich darauf konzentrieren, Ihr Unternehmen, die RDKS-Produkte und vor allem die Fertigungsprozesse im Detail zu verstehen. Mein Ziel ist es, durch Hospitationen in der Produktion und Gespräche mit den Kollegen den gesamten Wertstrom von der Komponente bis zum fertigen Sensor nachzuvollziehen.
 
 *   **Im zweiten Monat – die Integrationsphase –** möchte ich mein Wissen praktisch anwenden. Ich würde aktiv in einem laufenden Projekt mitarbeiten, um Ihre internen Abläufe zu lernen, und eine erste eigene Analyse eines Teilprozesses durchführen, um Optimierungspotenziale zu identifizieren.
 
-*   **Im dritten Monat – die Phase der ersten Eigenverantwortung –** wäre mein Ziel, ein erstes, überschaubares Optimierungsprojekt eigenständig zu leiten. Das könnte beispielsweise die Verbesserung eines Prüfablaufs oder die Reduzierung einer Rüstzeit sein. Damit möchte ich nicht nur meine Handlungsfähigkeit unter Beweis stellen, sondern auch direkt zu Ihren Unternehmenszielen beitragen.
+*   **Im dritten Monat – die Phase der ersten Eigenverantwortung –** wäre mein Ziel, ein erstes, überschaubares Optimierungsprojekt eigenständig zu leiten. Das könnte beispielsweise die Verbesserung eines Prüfablaufs oder die Reduzierung einer Rüstzeit sein. 
 
-Kurz gesagt: Mein Ansatz ist, vom **Verstehen** über das **Mitwirken** zum eigenständigen **Verbessern** zu kommen. So stelle ich sicher, dass ich nach drei Monaten voll integriert bin und proaktiv zur Weiterentwicklung Ihrer Fertigung beitragen kann."
+Kurz gesagt: Mein Ansatz ist, vom **Verstehen** über das **Mitwirken** zum eigenständigen **Verbessern** zu kommen. 
+
+
+### KI-Adoptionsmöglichkeiten
+
+Einbettung von KI-Technologien in RDKS-Produkte: Update von Software und/oder Hardware als nächste Generation
+
+Die nächste RDKS-Generation (Gen 3.0+) geht über bloße Drucküberwachung hinaus und nutzt KI für predictive Analytics, adaptive Anpassungen und Integration mit Fahrzeug-Ökosystemen. 
+
+
+Integration von KI-getriebenen Prozessen in die Produktion
+
+Von der Data-Perspektive: Geeignete KI-gestützte Tools für Erfassung, Analyse usw. und Datenquellen
 
 ---
+---
+# Teil 3
+
 * Arno Fuchs 
 
 Seit 1992 im Operations-Bereich tätig mit verschiedenen Funktionen bei Eaton. Als Werksleiter bei BERU und Huf tätig bevor er 2019 COO bei BH SENS wurde. 

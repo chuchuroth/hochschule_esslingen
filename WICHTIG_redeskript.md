@@ -77,9 +77,7 @@
 4. ich entwickle auch **Teststation** für **mechatronische Systeme**. habe ich einen Testaufbau für **DDS Axle Load Sensor** entworfen, einen **Hall-basierten** Sensor, der kann **Position und Druck** in Echtzeit messen nämlich die **Achslast durch Verformung der Federung**. also weil die Sensoren kann **unter extreme Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferen**, da muss man Test machen und **Root-Cause-Analysen** durchgeführen. Ich habe MATLAB-Skripte geschrieben, um die daten zu analysieren, und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können.
 5. parallel arbeite ich weiter mit ROS und bastelln Roboterarme, die Arbeit habe ich angefangen von KIT
 6. ab und zu kommt private Kunde zum besuch und bringt Geräte zur Reparatur und mach wir Tests und reparieren elektronik
-
-
-1. bei FLEX da war ich in der Entwicklung tätig, und habe an ein paar Produkte mitgemacht. habe einem **autonomen Rasenmäher prototyp** gebaut, meistens in software
+7. davor war ich bei FLEX da war ich in der Entwicklung tätig, und habe an ein paar Produkte mitgemacht. habe einem **autonomen Rasenmäher prototyp** gebaut, meistens in software
 2. und mit **Motorsteuerung** habe viel arbeit eingesetzt, Der ist auch wichtigste Teil beim Design von **Elektrowerkzeugen**, wie **Akku-Exzenterschleifern mit variabler Drehzahlregelung** , gründsätzlich gibts drei arten , die einfachsten ist ohne feedback, also **PWM-Signale im offenen Regelkreis**, zum Beispiel **Laubbläser, Kettensägen oder Gartenscheren** , Elektrowerkzeugen mit **geringen Genauigkeitsanforderungen**
 3. Dann regelungsverfahren mit feedback signal, also **hallsensor** , **Geschlossene PWM-drehmomentregelung und Drehzahlregelung** , Eingesetzt in Werkzeugen mit **höheren Genauigkeitsanforderungen**, wie z. B. **Bohrmaschinen , Schleifer oder Polierer**
 4. gibts noch fortschrittlichere Form, nämlich die **feldorientierte Regelung** , die wird eingesetzt in **autonom Rasenmähern**

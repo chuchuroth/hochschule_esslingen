@@ -104,6 +104,14 @@ Dieser Plan ist ein ambitionierter, aber realistischer Rahmen. Er zeigt, dass Si
 
 Kurz gesagt: Mein Ansatz ist, vom **Verstehen** über das **Mitwirken** zum eigenständigen **Verbessern** zu kommen. So stelle ich sicher, dass ich nach drei Monaten voll integriert bin und proaktiv zur Weiterentwicklung Ihrer Fertigung beitragen kann."
 
+---
+* Arno Fuchs 
+
+Seit 1992 im Operations-Bereich tätig mit verschiedenen Funktionen bei Eaton. Als Werksleiter bei BERU und Huf tätig bevor er 2019 COO bei BH SENS wurde. 
+
+* Ralf Kessler  
+
+Begann seine Karriere bei DODUCO 1989 als Development Engineer. Bevor er 2019 der CTO von BH SENS wurde, war er unter anderem der Leiter der RDKS-Entwicklung bei BERU und Huf. 
 
 
 ---

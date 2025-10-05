@@ -5,7 +5,6 @@
 
 
 * 我用ai解决过什么问题
-* 准备一个ai计划，第一，设计方面，如何用ai改进设计，第二，软件方面增加一些ai功能，第三，制造流程嵌入ai - wie konnte die nächste generation der RDKS andern , sensor data, Zusatzliche funktion
 
 
 + strukturierte Kommunikationsfähigkeiten

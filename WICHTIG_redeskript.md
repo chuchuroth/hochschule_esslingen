@@ -6,7 +6,7 @@
 + 为什么要说这句话，你说这句话的目的是什么，你自己心里要有一个清晰的逻辑和意图。
 * script要有但不能依赖，最好是talkshow风格
 
-* 
+  
 
 
 ---
@@ -71,26 +71,8 @@
 
 # Teil 1
 
-1. momentan arbeite ich zusammen mit mein Kollege selbstständig, wir haben kleine werkstatt hier im backnang gemietet, und wir arbeite meisten mit **3D-Druckern**, wir bastelln gerade einen **Industrie-3D-Drucker** mit großem Bauraum für großformatige Teile wie Möbelstücke.
-2. haben ein klein **elektrische Labor** Ausgestattet, ein paar Laborgeräte beschafft, damit kann man basis **Messungen und Analysen an Sensoren und Aktuatoren** durchführen.  **Spektrumanalysator**, **osilliscope**, Zur messung **elektromagnetischer Störungen** und **Signalgenerator**, falls bestimmte Signal braucht, und **Netzgerät**, **CNC maschine**, **Lötenstation**
-3. bekommen ein paar aufträge, zum Beispiel von hochschule heilbron, **Entwikeln eine Versuchsstände, einem Teststand zur Oberfläche Hupe-Vermessung von Nockenwellen**, die wird aber meisten von meinen Kollegen durchführen
-4. ich entwickle auch **Teststation** für **mechatronische Systeme**. habe ich einen Testaufbau für **DDS Axle Load Sensor** entworfen, einen **Hall-basierten** Sensor, der kann **Position und Druck** in Echtzeit messen nämlich die **Achslast durch Verformung der Federung**. also weil die Sensoren kann **unter extreme Umweltbedingungen (z. B. Temperaturschwankungen von -20°C bis +80°C) ungenaue Werte lieferen**, da muss man Test machen und **Root-Cause-Analysen** durchgeführen. Ich habe MATLAB-Skripte geschrieben, um die daten zu analysieren, und eine KI-gestützte Validierungstool entwickelt, das Muster in den Daten zu erkennen und Vorhersagen können.
-5. parallel arbeite ich weiter mit ROS und bastelln Roboterarme, die Arbeit habe ich angefangen von KIT
-6. ab und zu kommt private Kunde zum besuch und bringt Geräte zur Reparatur und mach wir Tests und reparieren elektronik
-7. davor war ich bei FLEX da war ich in der Entwicklung tätig, und habe an ein paar Produkte mitgemacht. habe einem **autonomen Rasenmäher prototyp** gebaut, meistens in software
-8. und mit **Motorsteuerung** habe viel arbeit eingesetzt, Der ist auch wichtigste Teil beim Design von **Elektrowerkzeugen**, wie **Akku-Exzenterschleifern mit variabler Drehzahlregelung** , gründsätzlich gibts drei arten , die einfachsten ist ohne feedback, also **PWM-Signale im offenen Regelkreis**, zum Beispiel **Laubbläser, Kettensägen oder Gartenscheren** , Elektrowerkzeugen mit **geringen Genauigkeitsanforderungen**
-9. Dann regelungsverfahren mit feedback signal, also **hallsensor** , **Geschlossene PWM-drehmomentregelung und Drehzahlregelung** , Eingesetzt in Werkzeugen mit **höheren Genauigkeitsanforderungen**, wie z. B. **Bohrmaschinen , Schleifer oder Polierer**
-10. gibts noch fortschrittlichere Form, nämlich die **feldorientierte Regelung** , die wird eingesetzt in **autonom Rasenmähern**
-11. Ich mache auch viel tests , also **Elektrische Leistung, Mechanische Leistung, Vibrations- und Geräuscht, Temperatur, Dauer- und Zuverlässigkeit**. ich mach **FMEA-Analysen** und **erstellen technische Dokumentation für CE-Zertifizierungen, verfasse Berichte nach ISO-Norm**
-12. entwickele auch **Testaufbau**, Ein konkretes Beispiel war die **Validierung eines Akku-Schleifers**, Die integrieren **Druck- und induktive hall Sensoren**, zum Messen die **Rotationsgeschwindigkeit des Motors**. wenn **unter hohen Belastungen** wird **Überhitzung** auftreten und das macht die Sensoren **unzuverlässig** und **instabil**, und das fürht zu **automatischen Abschaltungen** des Power Tools. Dann mache ich Tests und such das **Root-Cause**, ob **Staubansammlung in der Belüftung**, wo die Hitze staut, oder **PCB-Design-Fehler**, wo Heat-Generating Components (z. B. MOSFETs) zu nah am Sensor platziert waren, was zu thermischer Drift führte. Um die problem zu lösen, manchmal ist notwendig die **DV- (Design Verification) und PV-Tests (Product Validation)** durchzuführen, **Prüfabläufe** zu erstellen und **Data Analyse mit MATLAB und Python**. here ein beispiel.
-13. dazwischen habe ich ein Idee weil **während Testablauf**, gibts wichtige Parameter wie **Temperatur, Strom, spannung Drehzahl geschwindigkeit** und solche data sammlen man immer manual, also ich habe den Idee die Daten auf irgendein Arten **automatisch** zu sammeln, und da kommt die **Datalogger**, das ist eine Schnittstelle zwischen Akku und Maschine, diese tool kann automatisch data erfassen, auswerten und grafisch dargestellen und speichern und später analyse. die Prototyp kann auch in echte Produkte eingebaut werden um echte Arbeitsdata zu sammeln. Die idee ist, Wenn genug data, kann die Motorsteuerungsparameter weiter opetimieren.
-14. Nebenbei habe ich auch an einige Kleine Projekte begleiten. Also **Batterieprüfungen, EMV** und unterstützte auch die **Prototypenfertigung und Zertifizierungen mit externen Labs**.
-15. vorher bei hella war ich für **CAD-Zeichnung** verantwortlich und überprüfe **Konstruktionspläne** vor der Freigabe nach Standards
-16. habe ich in der **Process Planung** von Scheinwerfer-Produktionslinien mitgearbeitet und dabei Erfahrungen mit **SPS-Programmierung, Stromlaufplänen** und fehlersuchen, und dabei habe erfahrung mit **siemens TIA** gesammelt.
 
 
-
----
 
 1. Momentan arbeite ich zusammen mit meinem Kollegen selbstständig. Wir haben hier in Backnang eine kleine Werkstatt gemietet. Meistens arbeiten wir mit **3D-Druckern** – gerade basteln wir an einem **Industrie-3D-Drucker** mit großem Bauraum, um auch größere Teile wie Möbelstücke drucken zu können.
 

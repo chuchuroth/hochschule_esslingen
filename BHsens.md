@@ -133,6 +133,9 @@ Falls Sie mehr Details brauchen, z. B. zu spezifischen TPMS-Technologien oder Be
 
 ### Kurze Einführung in Reifendruckkontrollsysteme (TPMS)
 
+Reifendruckkontrollsysteme (TPMS) sind elektronische Systeme, die den Luftdruck in Fahrzeugreifen in Echtzeit überwachen und den Fahrer bei Abweichungen warnen, um Sicherheit, Kraftstoffeffizienz und Reifenlebensdauer zu verbessern. Die Entwicklung begann in den 1980er Jahren mit optionalen Systemen in Luxusfahrzeugen wie dem Porsche 959 (1986), der ein Hohlspeichensystem nutzte. Durch Unfälle wie die Firestone/Ford-Krise wurde TPMS in den USA ab 2007 obligatorisch (TREAD Act), in der EU ab 2014 für Neuwagen. Es gibt zwei Hauptarten: **indirekte TPMS** (nutzen ABS-Sensoren zur Schätzung des Drucks über Radgeschwindigkeiten) und **direkte TPMS** (mit dedizierten Sensoren im Rad, die Druck und Temperatur messen und drahtlos übertragen). Die Herstellung umfasst die Produktion von Sensoren (z. B. aus Druckmessern, Mikrocontrollern, Batterien und PCB), die in hochautomatisierten Linien montiert werden, oft für Automobilzulieferer wie Schrader oder Hella. Der Fokus liegt auf Präzision, da TPMS strenge Normen (z. B. ISO/TS 16949) erfüllen muss.
+
+
 
 #### Montageprozess und eingesetzte Maschinen/Geräte
 Der Montageprozess für direkte TPMS-Sensoren (häufiger in der Produktion) beginnt mit der Fertigung der Sensoreinheit: Der Sensor (mit Batterie, Antenne und Elektronik) wird am Ventilstamm befestigt, oft per Schraube oder Kleber integriert. Anschließend wird er in das Rad/Reifen-System eingebaut:
@@ -298,16 +301,6 @@ Gerne, hier ist eine prägnante Zusammenfassung des 3-Monats-Plans, die Sie perf
 ---
 
 ### **Prägnante Zusammenfassung für das Bewerbungsgespräch**
-
-"Ich habe mir bereits Gedanken gemacht, wie ich mich in den ersten drei Monaten strukturiert einarbeiten und schnell einen Mehrwert für Ihr Team schaffen kann. Mein Plan gliedert sich in drei Phasen:
-
-*   **Im ersten Monat – die Orientierungsphase –** würde ich mich voll darauf konzentrieren, Ihr Unternehmen, die RDKS-Produkte und vor allem die Fertigungsprozesse im Detail zu verstehen. Mein Ziel ist es, durch Hospitationen in der Produktion und Gespräche mit den Kollegen den gesamten Wertstrom von der Komponente bis zum fertigen Sensor nachzuvollziehen.
-
-*   **Im zweiten Monat – die Integrationsphase –** möchte ich mein Wissen praktisch anwenden. Ich würde aktiv in einem laufenden Projekt mitarbeiten, um Ihre internen Abläufe zu lernen, und eine erste eigene Analyse eines Teilprozesses durchführen, um Optimierungspotenziale zu identifizieren.
-
-*   **Im dritten Monat – die Phase der ersten Eigenverantwortung –** wäre mein Ziel, ein erstes, überschaubares Optimierungsprojekt eigenständig zu leiten. Das könnte beispielsweise die Verbesserung eines Prüfablaufs oder die Reduzierung einer Rüstzeit sein. Damit möchte ich nicht nur meine Handlungsfähigkeit unter Beweis stellen, sondern auch direkt zu Ihren Unternehmenszielen beitragen.
-
-Kurz gesagt: Mein Ansatz ist, vom **Verstehen** über das **Mitwirken** zum eigenständigen **Verbessern** zu kommen. So stelle ich sicher, dass ich nach drei Monaten voll integriert bin und proaktiv zur Weiterentwicklung Ihrer Fertigung beitragen kann."
 
 ---
 

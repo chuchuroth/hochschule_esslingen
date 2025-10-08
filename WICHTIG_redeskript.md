@@ -91,6 +91,8 @@ Am Ende habe ich empfohlen, dieses Modell direkt in die **Serienkalibrierung** z
 6. Ab und zu kommt auch mal ein **Privatkunde** vorbei, bringt Geräte zur Reparatur, und dann machen wir Tests am die Platinne und reparieren die Elektronik.
 
 # warum verlassen?
+Im letzten Monat erhielt ich ein Stellenangebot der Hochschule Esslingen für das Labor für Regelungstechnik, das aber wegen der deutschen Exportkontrolle und weil meine chinesische Universität auf der Sanktionsliste steht, kurzfristig zurückgezogen wurde – laut deutschem Antidiskriminierungsgesetz zwar fragwürdig, aber juristisch durchsetzbar.
+
 Zwar ist die wirtschaftliche Seite unseres Start-ups im Moment eher als Lernreise denn als Geschäftserfolg zu sehen, doch man lernt aus Fehlern mindestens so viel wie aus Erfolgen. 
 
 Ich habe wertvolle Erfahrungen gesammelt – zum Beispiel Projekte von der Idee bis zum Prototypen eigenverantwortlich umzusetzen, Ressourcen einzuteilen, Lösungen zu entwickeln und ein funktionierendes Netzwerk aufzubauen. Parallel dazu habe ich in der selbstständigen Tätigkeit dennoch umfassende Praxiserfahrungen gesammelt und können eigenständig Projekte umsetzen. 

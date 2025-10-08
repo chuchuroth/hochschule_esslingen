@@ -1,5 +1,6 @@
 ## plan well, the thing you do today has an impact on tomorrow. connect dots.
 
+## 说话做事要紧抓重点，不要东扯西扯，搞半天不知道到底要说什么，这是很重要的习惯
 ---
 
 basiert auf input leztel mal ich habedrei sache gemacht:

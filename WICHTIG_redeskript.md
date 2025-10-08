@@ -74,21 +74,21 @@
 
 1. Momentan arbeite ich zusammen mit meinem Kollegen selbstständig. Wir haben hier in Backnang eine kleine Werkstatt geschafft. Meistens arbeiten wir mit **3D-Druckern** – gerade basteln wir an einem **Industrie-3D-Drucker** mit großem Bauraum, um auch größere Teile wie Möbelstücke drucken zu können.
 
-3. außerdem haben wir ein kleines **elektrisches Labor** eingerichtet und ein paar Geräte besorgt, Also so Sachen wie **Spektrumanalysator**, **Oszilloskop** (für **elektromagnetische Störungen**), **Signalgenerator**, **Netzgerät**, **CNC-Maschine** und **Lötstation** sind da, wir machen Hauptsächtlich **Messungen und Analysen an Sensoren und Aktuatoren** . 
+2. außerdem haben wir ein kleines **elektrisches Labor** eingerichtet und ein paar Geräte besorgt, Also so Sachen wie **Spektrumanalysator**, **Oszilloskop** (für **elektromagnetische Störungen**), **Signalgenerator**, **Netzgerät**, **CNC-Maschine** und **Lötstation** sind da, wir machen Hauptsächtlich **Messungen und Analysen an Sensoren und Aktuatoren** . 
 
-wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** – den Teil übernimmt meistens mein Kollege.
+3. wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** für sein Maschinenbau Labor – den Teil übernimmt meistens mein Kollege.
 
-und ich habe einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**. Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.
+4. und ich habe einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**. Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. (Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.
 
 Mein Ziel war, die **thermische Drift** des Sensors zu verstehen und zu korrigieren – die Messwerte haben sich bei Temperaturen zwischen **–20 °C und +80 °C** deutlich verändert. Dafür hab ich das Sensorsystem in einen **servohydraulischen Prüfstand** eingebunden und die komplette **Testautomatisierung** umgesetzt: mit **MATLAB-Skripten**, **LabVIEW-Anbindung** und **SQL-Datenspeicherung**. Dadurch konnten wir die **Testzeit von acht auf zwei Stunden** senken und gleichzeitig die Dokumentation für **ISO- und CE-Zertifizierungen** sicherstellen.
 
 In der **Datenanalyse** hab ich die Driftursache identifiziert – das war vor allem die **temperaturabhängige Ausdehnung des Gehäuses** – und mit **Machine Learning**, genauer gesagt einer **Gaussian Process Regression**, ein Korrekturmodell entwickelt. Damit konnten wir den Messfehler um rund **25 % reduzieren**.
 
-Am Ende habe ich empfohlen, dieses Modell direkt in die **Serienkalibrierung** zu integrieren, um die **Sensoren automatisch zu kompensieren** und langfristig **stabile, zuverlässige Messwerte** zu gewährleisten.
+Am Ende habe ich empfohlen, dieses Modell direkt in die **Serienkalibrierung** zu integrieren, um die **Sensoren automatisch zu kompensieren** und langfristig **stabile, zuverlässige Messwerte** zu gewährleisten.)
 
-6. Parallel arbeite ich weiter mit **ROS** und bastle an **Roboterarmen** – das Projekt hab ich damals am **KIT** angefangen.
+5. Parallel arbeite ich weiter mit **ROS** und bastle an **Roboterarmen** – das Projekt hab ich damals am **KIT** angefangen.
 
-7. Ab und zu kommt auch mal ein **Privatkunde** vorbei, bringt Geräte zur Reparatur, und dann machen wir Tests am die Platinne und reparieren die Elektronik.
+6. Ab und zu kommt auch mal ein **Privatkunde** vorbei, bringt Geräte zur Reparatur, und dann machen wir Tests am die Platinne und reparieren die Elektronik.
 
 # warum verlassen?
 Zwar ist die wirtschaftliche Seite unseres Start-ups im Moment eher als Lernreise denn als Geschäftserfolg zu sehen, doch man lernt aus Fehlern mindestens so viel wie aus Erfolgen. 
@@ -98,44 +98,45 @@ Ich habe wertvolle Erfahrungen gesammelt – zum Beispiel Projekte von der Idee 
 Im Falle einer Festanstellung würde ich mich voll und ganz auf meine neue Aufgabe konzentrieren. 
 
 
-7. Davor war ich bei **FLEX** in der Entwicklung. Da hab ich an mehreren Produkten mitgearbeitet und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.
 
-8. Besonders viel hab ich mit **Motorsteuerungen** gearbeitet – das ist ja der wichtigste Teil bei **Elektrowerkzeugen**, zum Beispiel bei **Akku-Exzenterschleifern mit variabler Drehzahlregelung**.
-   Grundsätzlich gibt’s da drei Arten:
-
-   * Die einfachste ist **ohne Feedback**, also **PWM-Signale im offenen Regelkreis** – das findet man z. B. bei **Laubbläsern, Kettensägen oder Gartenscheren**, wo’s auf Präzision nicht so ankommt.
-
-9. Dann gibt’s Systeme **mit Feedback**, also z. B. mit **Hallsensoren**, wo man eine **geschlossene PWM-Drehmoment- und Drehzahlregelung** hat. Das wird bei Werkzeugen mit **höheren Genauigkeitsanforderungen** eingesetzt, etwa bei **Bohrmaschinen, Schleifern oder Polierern**.
-
-10. Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die kommt z. B. bei **autonomen Rasenmähern** zum Einsatz.
-
-11. Also, bei **FLEX-Elektrowerkzeuge** war ich im **Batterielabor** tätig und hab dort den kompletten **Testbetrieb organisiert und technisch weiterentwickelt**. Mein Fokus lag darauf, dass unsere Tests **zertifizierungsfähig** sind – also wirklich alle relevanten Normen wie **IEC 62133-2**, **IEC 62619** und die **UN 38.3-Transporttests** abdecken.
+1. Also, bei **FLEX-Elektrowerkzeuge** war ich im **Batterielabor** tätig und hab dort den kompletten **Testbetrieb organisiert und technisch weiterentwickelt**. und die Tests muss **zertifizierungsfähig** sein – also wirklich alle relevanten Normen wie **IEC 62133-2**, **IEC 62619** und die **UN 38.3-Transporttests** abdecken.
 
 Ich hab die **Prüfstrategien entwickelt**, die Tests geplant und mit **Systemen wie Arbin und BaSyTec** sowie **Klimakammern von Weiss Technik** durchgeführt. Dabei ging’s um **Zyklustests, Kurzschluss- und Überladetests** sowie **Temperaturzyklen**.
 
-Die **Auswertung** hab ich dann mit **LabVIEW und MATLAB** gemacht – da hab ich unter anderem den **State of Health**, den **Ladezustand** und die **Impedanzverläufe** analysiert, um **Alterungsmechanismen** zu erkennen und **Optimierungsvorschläge für Zellchemie und Design** abzuleiten.
+Die **Data-Auswertung** hab ich dann mit **LabVIEW und MATLAB** gemacht – da hab ich unter anderem den **State of Health**, den **Ladezustand** und die **Impedanzverläufe** analysiert, um **Alterungsmechanismen** zu erkennen und **Optimierungsvorschläge für Zellchemie und Design** abzuleiten.
 
 Parallel dazu hab ich unser **Laborqualitätssystem** auf das Niveau der **ISO/IEC 17025** gebracht, also mit klaren **SOPs**, **Rückverfolgbarkeit** und regelmäßigen **Sicherheitsüberprüfungen** nach **DGUV 205-041**.
 
 Insgesamt hab ich also dafür gesorgt, dass unser Labor **technisch sicher, normkonform und effizient arbeitet** – und dass die Ergebnisse direkt in die **Zertifizierung und Produktentwicklung** einfließen konnten.
 
-13. Ich mach auch viele andere **Tests** für Power Tools– also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**. Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**.
-
-14. Ich entwickle auch **Testaufbauten**. Ein Beispiel war die **Validierung eines Akku-Schleifers**:
+2. Ich entwickle auch **Testaufbauten**. Ein Beispiel war die **Validierung eines Akku-Schleifers**:
     Da sind **Druck- und induktive Hallsensoren** integriert, um die **Motordrehzahl** zu messen. Unter **hoher Belastung** kann’s da zu **Überhitzung** kommen, wodurch die Sensoren **instabil** werden – dann schaltet das Gerät automatisch ab.
     Ich hab dann Tests gemacht, um den **Root Cause** zu finden – z. B. ob sich **Staub in der Belüftung sammelt**, oder ob’s am **PCB-Design** lag (wenn z. B. MOSFETs zu nah am Sensor sitzen → **thermische Drift**).
     Um solche Probleme zu lösen, macht man dann **DV- (Design Verification)** und **PV-Tests (Product Validation)**, erstellt **Prüfabläufe** und macht **Datenanalyse mit MATLAB und Python**.
 
-15. Dabei kam mir auch eine Idee:
+3. Ich mach auch viele andere **Tests** für Power Tools– also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**, **EMV** . Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**. und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
+  
+4. Dabei kam die Idee zum Datalogger:
     Während der Tests muss man ständig Parameter wie **Temperatur, Strom, Spannung oder Drehzahl** manuell mitschreiben – total nervig.
     Also hab ich die Idee gehabt, das Ganze **automatisch zu erfassen** – mit einem **Datalogger**. Das ist eine Schnittstelle zwischen Akku und Maschine, die automatisch Daten aufnimmt, auswertet, grafisch darstellt und speichert.
     Der Prototyp kann sogar direkt in echte Geräte eingebaut werden, um **Live-Daten im Betrieb** zu sammeln. Mit genug Daten kann man dann die **Motorsteuerung noch weiter optimieren**.
 
-16. Nebenbei begleite ich auch **kleinere Projekte**, z. B. **Batterieprüfungen**, **EMV-Tests** und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
 
-17. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
+5. Besonders viel hab ich mit **Motorsteuerungen** gearbeitet – das ist ja der wichtigste Teil bei **Elektrowerkzeugen**, zum Beispiel bei **Akku-Exzenterschleifern mit variabler Drehzahlregelung**.
+   Grundsätzlich gibt’s da drei Arten:
 
-18. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
+   * Die einfachste ist **ohne Feedback**, also **PWM-Signale im offenen Regelkreis** – das findet man z. B. bei **Laubbläsern, Kettensägen oder Gartenscheren**, wo’s auf Präzision nicht so ankommt.
+
+Dann gibt’s Systeme **mit Feedback**, also z. B. mit **Hallsensoren**, wo man eine **geschlossene PWM-Drehmoment- und Drehzahlregelung** hat. Das wird bei Werkzeugen mit **höheren Genauigkeitsanforderungen** eingesetzt, etwa bei **Bohrmaschinen, Schleifern oder Polierern**.
+
+Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die kommt z. B. bei **autonomen Rasenmähern** zum Einsatz.
+
+
+6. Nebenbei begleite ich auch **kleinere Projekte**, und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.  
+
+7. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
+
+8. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
 
 
 

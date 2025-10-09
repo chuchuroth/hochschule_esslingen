@@ -125,6 +125,7 @@ Insgesamt hab ich also dafür gesorgt, dass unser Labor **technisch sicher, norm
 
 3. Ich mach auch viele andere **Tests** für Power Tools– also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**, **EMV** . Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**. und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
   
+Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
 
 2. Ich entwickle auch **Testaufbauten**. Ein Beispiel war die **Validierung eines Akku-Schleifers**:
     Da sind **Druck- und induktive Hallsensoren** integriert, um die **Motordrehzahl** zu messen. Unter **hoher Belastung** kann’s da zu **Überhitzung** kommen, wodurch die Sensoren **instabil** werden – dann schaltet das Gerät automatisch ab.

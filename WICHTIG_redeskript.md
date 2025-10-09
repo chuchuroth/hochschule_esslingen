@@ -109,9 +109,9 @@ Im Falle einer Festanstellung würde ich mich voll und ganz auf meine neue Aufga
 
 
 
-1. Also, bei **FLEX-Elektrowerkzeuge** war ich im **Batterielabor** tätig und hab dort den kompletten **Testbetrieb organisiert und technisch weiterentwickelt**. und die Tests muss **zertifizierungsfähig** sein – also wirklich alle relevanten Normen wie **IEC 62133-2**, **IEC 62619** und die **UN 38.3-Transporttests** abdecken.
+1. Also, bei **FLEX-Elektrowerkzeuge** war ich im **Batterielabor** tätig und hab dort den kompletten **Testbetrieb organisiert und technisch weiterentwickelt**. also unser Tests muss dafür sorgen dass unser Akuu **zertifizierungsfähig** sein – nämlich wirklich alle relevanten Normen wie **IEC 62133-2**, **IEC 62619** und die **UN 38.3-Transporttests** abdecken.
 
-Ich hab die **Prüfstrategien entwickelt**, die Tests geplant und mit **Systemen wie Arbin und BaSyTec** sowie **Klimakammern von Weiss Technik** durchgeführt. Dabei ging’s um **Zyklustests, Kurzschluss- und Überladetests** sowie **Temperaturzyklen**.
+Ich hab die **Prüfstrategien entwickelt**, die Tests geplant und mit **Systemen wie Arbin und BaSyTec** sowie **Klimakammern von Weiss Technik** durchgeführt, also präzise Umweltsimulationen für Temperatur- und Feuchtigkeitstests. Dabei ging’s um **Zyklustests, Kurzschluss- und Überladetests** sowie **Temperaturzyklen**.
 
 Die **Data-Auswertung** hab ich dann mit **LabVIEW und MATLAB** gemacht – da hab ich unter anderem den **State of Health**, den **Ladezustand** und die **Impedanzverläufe** analysiert, um **Alterungsmechanismen** zu erkennen und **Optimierungsvorschläge für Zellchemie und Design** abzuleiten.
 

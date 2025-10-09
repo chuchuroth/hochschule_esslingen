@@ -101,6 +101,11 @@ Ich habe wertvolle Erfahrungen gesammelt – zum Beispiel Projekte von der Idee 
 
 Im Falle einer Festanstellung würde ich mich voll und ganz auf meine neue Aufgabe konzentrieren. 
 
+---
+Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
+
+
+# flex
 
 
 1. Also, bei **FLEX-Elektrowerkzeuge** war ich im **Batterielabor** tätig und hab dort den kompletten **Testbetrieb organisiert und technisch weiterentwickelt**. also unser Tests muss dafür sorgen dass unser Akuu **zertifizierungsfähig** sein – nämlich wirklich alle relevanten Normen wie **IEC 62133-2**, **IEC 62619** und die **UN 38.3-Transporttests** abdecken.
@@ -138,7 +143,6 @@ Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die
 
 6. Nebenbei begleite ich auch **kleinere Projekte**, und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.
 
-7. Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
 
 8. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
 

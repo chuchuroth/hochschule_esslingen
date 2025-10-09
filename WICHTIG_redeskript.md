@@ -107,7 +107,7 @@ Im Falle einer Festanstellung würde ich mich voll und ganz auf meine neue Aufga
 ---
 
 # warum testingenieur
-Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
+Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. 
 
 
 # flex

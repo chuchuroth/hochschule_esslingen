@@ -123,13 +123,15 @@ Parallel dazu hab ich unser **Laborqualitätssystem** auf das Niveau der **ISO/I
 
 Insgesamt hab ich also dafür gesorgt, dass unser Labor **technisch sicher, normkonform und effizient arbeitet** – und dass die Ergebnisse direkt in die **Zertifizierung und Produktentwicklung** einfließen konnten.
 
+3. Ich mach auch viele andere **Tests** für Power Tools– also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**, **EMV** . Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**. und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
+  
+
 2. Ich entwickle auch **Testaufbauten**. Ein Beispiel war die **Validierung eines Akku-Schleifers**:
     Da sind **Druck- und induktive Hallsensoren** integriert, um die **Motordrehzahl** zu messen. Unter **hoher Belastung** kann’s da zu **Überhitzung** kommen, wodurch die Sensoren **instabil** werden – dann schaltet das Gerät automatisch ab.
     Ich hab dann Tests gemacht, um den **Root Cause** zu finden – z. B. ob sich **Staub in der Belüftung sammelt**, oder ob’s am **PCB-Design** lag (wenn z. B. MOSFETs zu nah am Sensor sitzen → **thermische Drift**).
     Um solche Probleme zu lösen, macht man dann **DV- (Design Verification)** und **PV-Tests (Product Validation)**, erstellt **Prüfabläufe** und macht **Datenanalyse mit MATLAB und Python**.
 
-3. Ich mach auch viele andere **Tests** für Power Tools– also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**, **EMV** . Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**. und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
-  
+
 4. Dabei kam die Idee zum Datalogger:
     Während der Tests muss man ständig Parameter wie **Temperatur, Strom, Spannung oder Drehzahl** manuell mitschreiben – total nervig.
     Also hab ich die Idee gehabt, das Ganze **automatisch zu erfassen** – mit einem **Datalogger**. Das ist eine Schnittstelle zwischen Akku und Maschine, die automatisch Daten aufnimmt, auswertet, grafisch darstellt und speichert.

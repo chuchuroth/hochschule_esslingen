@@ -78,7 +78,7 @@ Sensoren/Aktuatoren in traditionellen oder elektrischen Antriebssystemen.
 
 3. wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** für sein Maschinenbau Labor – den Teil übernimmt meistens mein Kollege. 
 
-4. Und ein paar Testprojekten von HWA also meistens der Automobilindustrie, zum Beispiel Prüfstandstests für Sauerstoffsensoren, Funktionsprüfungen von Linearaktuatoren, Fehleranalysen von Turbolader-Stellgliedern sowie die Validierung von Steuergeräten (ECUs) in ADAS-Systemen.
+4. Und ein paar Testprojekten von HWA also meistens der Automobilindustrie, zum Beispiel Prüfstandstests für Sauerstoffsensoren, Funktionsprüfungen von Linearaktuatoren, (Fehleranalysen von Turbolader-Stellgliedern sowie die Validierung von Steuergeräten (ECUs) in ADAS-Systemen.)
 
 
 5. und ich habe einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**. Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. (Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.

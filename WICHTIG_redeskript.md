@@ -71,12 +71,20 @@
 
 # Teil 1
 
+Sie gehen von einer Laborumgebung
+aus und kombinieren praktische Messungen, Datenanalysen und die Einhaltung von
+Standards. Sie decken die Hauptaufgabenbereiche ab, wie Prüfstandstests,
+Datenvalidierung, Erstellung von DVP/PVP, Überprüfung von Berichten,
+Unterstützung bei Prototypen, Entwicklung von Testplänen, Durchführung von
+DV/PV, Abweichungsanalysen sowie Kenntnisse über die Anwendung von
+Sensoren/Aktuatoren in traditionellen oder elektrischen Antriebssystemen.
+
 
 1. Momentan arbeite ich zusammen mit meinem Kollegen selbstständig. Wir haben hier in Backnang eine kleine Werkstatt geschafft. Meistens arbeiten wir mit **3D-Druckern** – gerade basteln wir an einem **Industrie-3D-Drucker** mit großem Bauraum, um auch größere Teile wie Möbelstücke drucken zu können.
 
 2. außerdem haben wir ein kleines **elektrisches Labor** eingerichtet und ein paar Geräte besorgt, Also so Sachen wie **Spektrumanalysator**, **Oszilloskop** (für **elektromagnetische Störungen**), **Signalgenerator**, **Netzgerät**, **CNC-Maschine** und **Lötstation** sind da, wir machen Hauptsächtlich **Messungen und Analysen an Sensoren und Aktuatoren** . 
 
-3. wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** für sein Maschinenbau Labor – den Teil übernimmt meistens mein Kollege.
+3. wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** für sein Maschinenbau Labor – den Teil übernimmt meistens mein Kollege. Bisher haben wir ein paar Produkte entwicklt,  z. B. Aktivkohle-Luftreiniger, Growbox mit automatisierter Klima- und Feuchtigkeitsregelung,
 
 4. und ich habe einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**. Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. (Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.
 
@@ -134,11 +142,13 @@ Dann gibt’s Systeme **mit Feedback**, also z. B. mit **Hallsensoren**, wo man 
 Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die kommt z. B. bei **autonomen Rasenmähern** zum Einsatz.
 
 
-6. Nebenbei begleite ich auch **kleinere Projekte**, und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.  
+6. Nebenbei begleite ich auch **kleinere Projekte**, und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.
 
-7. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
+7. Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
 
-8. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
+8. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
+
+9. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
 
 
 
@@ -253,7 +263,7 @@ Meine beruflichen Stationen bei Poppe Mechatronik, FLEX-Elektrowerkzeuge, Hella 
 
 
 
-Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
+
 
 Derzeit leite ich gemeinsam mit Benjamin Poppe das Start-up 'Poppe Mechatronik' in Backnang. Wir spezialisieren uns auf Elektronik und elektrische Ausstattung, industriellen 3D-Druck, die Entwicklung von Mess- und Prüfständen sowie Maschinenreparaturen. Zur Vermeidung potenzieller Interessenkonflikte informiere ich Sie gerne offen: Unser Unternehmen befindet sich im Aufbau und ist derzeit nur im kleinen Rahmen aktiv. Im Falle einer Festanstellung würde ich mich voll und ganz auf meine neue Aufgabe konzentrieren. Daher möchte ich meine Fähigkeiten gezielt in einem etablierten Unternehmen einbringen. Parallel dazu habe ich in der selbstständigen Tätigkeit dennoch umfassende Praxiserfahrungen gesammelt und können eigenständig Projekte umsetzen. Wir suchen externe Kooperationen, weil uns für nachhaltiges Wachstum als Unternehmen aktuell noch die nötigen Ressourcen fehlen. Jedenfalls sollten Sie einen erfahrenen Produktexperten suchen, empfehle ich Ihnen ausdrücklich meinen Geschäftspartner Benjamin Poppe. Herr Poppe bringt langjährige Erfahrung in der Entwicklung elektronischer Produkte und der Anwendung von CAD- und EDA-Tools wie SolidWorks, Eagle und LTSpice mit. Während ich den Fokus auf die Test- und Projektkoordination lege, übernimmt er die technische Entwicklung und Detailarbeit. Bisher haben wir unter anderem ein paar Produkte realisiert, z. B. Aktivkohle-Luftreiniger, Growbox mit automatisierter Klima- und Feuchtigkeitsregelung, Prüfstand zur Oberfläche Hupe-Vermessung von Nockenwellen, und Datalogger für Elektrowerkzeuge usw. Zudem verfüge ich über gute Programmierkenntnisse (Schwerpunkt ROS), während Poppe im Bereich ESP32 und IoT spezialisiert ist.
 

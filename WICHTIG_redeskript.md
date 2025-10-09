@@ -76,9 +76,10 @@ Sensoren/Aktuatoren in traditionellen oder elektrischen Antriebssystemen.
 
 2. außerdem haben wir ein kleines **elektrisches Labor** eingerichtet und ein paar Geräte besorgt, Also so Sachen wie **Spektrumanalysator**, **Oszilloskop** (für **elektromagnetische Störungen**), **Signalgenerator**, **Netzgerät**, **CNC-Maschine** und **Lötstation** sind da, wir machen Hauptsächtlich **Messungen und Analysen an Sensoren und Aktuatoren** . 
 
-3. wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** für sein Maschinenbau Labor – den Teil übernimmt meistens mein Kollege. Und ein paar Testprojekten von HWA also meistens der Automobilindustrie, zum Beispiel Prüfstandstests für Sauerstoffsensoren, Funktionsprüfungen von Linearaktuatoren, Fehleranalysen von Turbolader-Stellgliedern sowie die Validierung von Steuergeräten (ECUs) in ADAS-Systemen.
+3. wir entwickle selbst **Versuchsstände für mechatronische Systeme**. Zum Beispiel aktuell bekommen wir Aufträge von der Hochschule Heilbronn. Da entwickeln wir einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** für sein Maschinenbau Labor – den Teil übernimmt meistens mein Kollege. 
 
-4. Bisher haben wir ein paar Produkte entwicklt,  z. B. Aktivkohle-Luftreiniger, Growbox mit automatisierter Klima- und Feuchtigkeitsregelung, dafür muss technischer Dokumentationen für Produktzulassungen, Zertifizierungen und gesetzliche Prüfungen (z. B. CE-Kennzeichnung, Umweltkonformität) 
+4. Und ein paar Testprojekten von HWA also meistens der Automobilindustrie, zum Beispiel Prüfstandstests für Sauerstoffsensoren, Funktionsprüfungen von Linearaktuatoren, Fehleranalysen von Turbolader-Stellgliedern sowie die Validierung von Steuergeräten (ECUs) in ADAS-Systemen.
+
 
 5. und ich habe einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**. Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. (Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.
 
@@ -88,11 +89,13 @@ In der **Datenanalyse** hab ich die Driftursache identifiziert – das war vor a
 
 Am Ende habe ich empfohlen, dieses Modell direkt in die **Serienkalibrierung** zu integrieren, um die **Sensoren automatisch zu kompensieren** und langfristig **stabile, zuverlässige Messwerte** zu gewährleisten.)
 
+6. Bisher haben wir ein paar Produkte entwicklt,  z. B. Aktivkohle-Luftreiniger, Growbox mit automatisierter Klima- und Feuchtigkeitsregelung, dafür muss technischer Dokumentationen für Produktzulassungen, Zertifizierungen und gesetzliche Prüfungen (z. B. CE-Kennzeichnung, Umweltkonformität) 
+
 5. Parallel arbeite ich weiter mit **ROS** und bastle an **Roboterarmen** – das Projekt hab ich damals am **KIT** angefangen.
 
 6. Ab und zu kommt auch mal ein **Privatkunde** vorbei, bringt Geräte zur Reparatur, und dann machen wir Tests am die Platinne und reparieren die Elektronik.
 
-# warum verlassen?
+# warum verlassen PM
 Im letzten Monat erhielt ich ein Stellenangebot der Hochschule Esslingen für das Labor für Regelungstechnik, das aber wegen der deutschen Exportkontrolle und weil meine chinesische Universität auf der Sanktionsliste steht, kurzfristig zurückgezogen wurde – laut deutschem Antidiskriminierungsgesetz zwar fragwürdig, aber juristisch durchsetzbar.
 
 Zwar ist die wirtschaftliche Seite unseres Start-ups im Moment eher als Lernreise denn als Geschäftserfolg zu sehen, doch man lernt aus Fehlern mindestens so viel wie aus Erfolgen. 
@@ -102,6 +105,8 @@ Ich habe wertvolle Erfahrungen gesammelt – zum Beispiel Projekte von der Idee 
 Im Falle einer Festanstellung würde ich mich voll und ganz auf meine neue Aufgabe konzentrieren. 
 
 ---
+
+# warum testingenieur
 Meine Entscheidung für diese Stelle resultiert aus meinen praktischen Erfahrungen und persönlichem Interesse: Test- und Prüfprozesse begeistern mich besonders und entsprechen meinem Profil. Ich habe aber auch in anderen Bereichen wie Hardwareentwicklung und CAD-Konstruktion gearbeitet und bin überzeugt, dass ich bei Bedarf flexibel auch andere Aufgaben übernehmen kann. Bei Hella war ich beispielsweise an der mechanischen Konstruktion von Scheinwerfern mit CATIA beteiligt und für die Freigabe von CAD-Zeichnungen verantwortlich. Bei Flex gehörten die Überprüfung und Simulation von Schaltplänen, die Erstellung von Entwicklungsdokumenten sowie EMV-Tests zu meinen Aufgaben. Außerdem habe ich in internationalen Projekten häufig technische Abstimmungen und Übersetzungen mit Teams und Partnern in China koordiniert.
 
 

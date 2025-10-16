@@ -63,3 +63,13 @@ Erzähle **nicht alle**, sondern **2–3 Projekte**, die am nächsten an Mittels
 - **Mehr Tiefe?** Übe vor dem Spiegel oder mit einem Freund – und passe an, falls du mehr Details zu einem Projekt hast.
 
 Das macht dich zum "perfekten Fit"! Wenn du ein vollständiges Lebenslauf-Beispiel oder ein Skript für ein Gespräch brauchst, sag Bescheid. Viel Erfolg!
+
+---
+
+Understand medium voltage systems.
+Identify the major components associated with medium voltage distribution.
+Understand dielectric oil test results.
+Identify the purpose of medium-voltage distribution components.
+Apply safety requirements for inspection and/or maintenance of medium voltage systems.
+Gain basic understanding of protective relays and relay settings.
+Troubleshoot and maintain medium voltage equipment.

@@ -73,3 +73,142 @@ Identify the purpose of medium-voltage distribution components.
 Apply safety requirements for inspection and/or maintenance of medium voltage systems.
 Gain basic understanding of protective relays and relay settings.
 Troubleshoot and maintain medium voltage equipment.
+
+
+Eine Thermal-Vakuum-Kammer ermöglicht die Forschung unter extremen Umgebungsbedingungen bezogen auf den Druck und die Temperatur. Die Thermal-Vakuum-Kammer wird häufig in der Raumfahrt- und Luftfahrtforschung eingesetzt um Materialien unter atmosphärischem Druck und extremen Temperaturen zu prüfen.
+
+---
+
+Sehr gut – das ist eine **sehr durchdachte Herangehensweise** 👏
+Wenn du beim Einarbeitungsgespräch zeigst, dass du **deine Aufgaben strukturiert verstanden** hast und **konkret in die Praxis einordnen** kannst, machst du einen hervorragenden Eindruck.
+
+Ich helfe dir, das so aufzubauen, dass du **sicher, fachlich kompetent und praxisnah** klingst.
+Hier ist dein Leitfaden, den du im Gespräch nutzen kannst – als **Gesprächsstruktur + Stichpunkt-Notizen**, die du natürlich anpassen kannst.
+
+---
+
+## 💬 **Einarbeitungsgespräch – Strukturierter Leitfaden**
+
+---
+
+### 🟩 1. Einstieg: Selbstverständnis deiner Rolle
+
+> „Ich sehe meine Rolle als Versuchsingenieur im Prüflabor Mittelspannung darin, durch sorgfältige Planung, sichere Prüfabläufe und zuverlässige Messtechnik zur Qualität und Weiterentwicklung unserer Mittelspannungsprodukte beizutragen. Ich möchte sicherstellen, dass jede Prüfung technisch korrekt, normgerecht und effizient abläuft.“
+
+---
+
+### 🟩 2. Vier Hauptaufgaben – Verständnis & Praxisbezug
+
+---
+
+#### ⚙️ **1. Prüfplanung, Vorbereitung und Durchführung von Entwicklungs- und Typprüfungen**
+
+**Definition:**
+Die Planung und Durchführung normgerechter Prüfungen, um sicherzustellen, dass Mittelspannungskomponenten die technischen und sicherheitstechnischen Anforderungen erfüllen.
+
+**Praxisbezug:**
+
+* Analyse von Prüfspezifikationen (nach IEC 62271, IEC 60060 usw.)
+* Erstellung eines Prüfplans: Prüfziel, Prüfumfang, Spannungspegel, Messaufbau
+* Durchführung im Labor mit Hochspannungsquelle, Messsystem und Sicherheitsfreigabe
+* Dokumentation und Bewertung der Ergebnisse (z. B. Spannungsfestigkeit, Teilentladungen)
+
+**Ziel:**
+Normgerechte und reproduzierbare Ergebnisse, die Entwicklungsfreigaben oder Typzulassungen ermöglichen.
+
+---
+
+#### 🧾 **2. Mitwirkung bei der internen Kalibrierung zur Erhaltung der Laborakkreditierung**
+
+**Definition:**
+Kalibrierung bedeutet, die Genauigkeit und Rückführbarkeit der Messgeräte sicherzustellen – eine zentrale Forderung der ISO/IEC 17025.
+
+**Praxisbezug:**
+
+* Vergleich der Geräte mit Referenznormalen (z. B. Hochspannungsmesskette gegen Kalibrator)
+* Erstellen von Kalibrierprotokollen mit Messunsicherheit und Rückverfolgbarkeit
+* Pflege des Kalibrierstatus im Laborverwaltungssystem
+* Vorbereitung auf interne und externe Audits (DAkkS oder Konzerninterne Prüfungen)
+
+**Ziel:**
+Langfristig gleichbleibende Messgenauigkeit und Nachweis der Labor-Kompetenz.
+
+---
+
+#### 🧰 **3. Weiterentwicklung der Instandhaltung von Prüf- und Messtechnik**
+
+**Definition:**
+Sicherstellen, dass alle Prüf- und Messgeräte stets betriebsbereit, sicher und technisch aktuell sind.
+
+**Praxisbezug:**
+
+* Erstellung und Aktualisierung von Wartungsplänen
+* Zustandsüberwachung (z. B. Isolationswiderstand, Ölzustand, Temperaturüberwachung)
+* Dokumentation im Instandhaltungsmanagement-System
+* Vorschläge für Modernisierung oder Ersatzinvestitionen
+
+**Ziel:**
+Hohe Anlagenverfügbarkeit, Sicherheit und Vermeidung ungeplanter Ausfälle.
+
+---
+
+#### 🔄 **4. Optimierung der Prozesse im Prüflabor und Erstellung von Prüfdokumentation**
+
+**Definition:**
+Kontinuierliche Verbesserung von Abläufen, Prüfabläufen und Dokumentation zur Steigerung von Effizienz, Qualität und Sicherheit.
+
+**Praxisbezug:**
+
+* Analyse bestehender Prüfprozesse mit Blick auf Zeit, Sicherheit und Datenfluss
+* Vereinheitlichung von Prüfvorschriften, Checklisten und Protokollen
+* Nutzung digitaler Tools (z. B. automatisierte Datenerfassung, Vorlagen)
+* Umsetzung von 5S / Lean-Prinzipien im Labor
+
+**Ziel:**
+Effizientere Prüfabläufe, klar dokumentierte Ergebnisse und ein audit-sicheres Labor.
+
+---
+
+### 🟩 3. Zentrale technische & fachliche Konzepte
+
+| Konzept                                               | Bedeutung                                                                                 | Praxisbezug                                                                      |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Hochspannungsprüfung (IEC 60060)**                  | Prüfung der Spannungsfestigkeit elektrischer Isolierungen mit AC, DC oder Impuls-Spannung | Anwendung bei Typprüfungen von Schaltanlagen, um Durchschlagfestigkeit zu prüfen |
+| **Teilentladungsmessung (IEC 60270)**                 | Erkennung kleinster Entladungen im Isolationssystem                                       | Bewertung der Isolationsqualität, z. B. vor Serienfreigabe                       |
+| **Kurzschluss- & Erwärmungsprüfungen**                | Belastungstests unter realen Betriebsbedingungen                                          | Nachweis thermischer und mechanischer Festigkeit                                 |
+| **Kalibrierung (ISO 17025)**                          | Sicherstellen, dass Messgeräte verlässliche, rückführbare Werte liefern                   | Regelmäßige Kalibrierung der Messkette und Prüfgeräte                            |
+| **Sicherheitskonzepte (EN 50110, DGUV Vorschrift 3)** | Schutz von Personen und Anlagen im Hochspannungsumfeld                                    | Freischaltverfahren, Erdung, Sicherheitsabstände                                 |
+| **Prozessmanagement (ISO 17025, Lean)**               | Standardisierte, überprüfbare Abläufe im Labor                                            | Prüfmittelüberwachung, Dokumentenlenkung, Audits                                 |
+
+---
+
+### 🟩 4. Relevante Technologien, Tools & Systeme
+
+| Kategorie                    | Tool / System                                                  | Anwendung                                       |
+| ---------------------------- | -------------------------------------------------------------- | ----------------------------------------------- |
+| **Messtechnik**              | HV-Messketten, Oszilloskope, TE-Messsysteme (Omicron, Haefely) | Spannung, Strom, TE-Messung                     |
+| **Datenerfassung**           | LabVIEW, Python, Excel                                         | Messdatenerfassung, Auswertung, Automatisierung |
+| **Kalibrierung**             | DAkkS-konforme Referenzgeräte, Kalibriersoftware               | Interne Kalibrierung, Dokumentation             |
+| **Dokumentation & Prozesse** | MS Office, Schneider PLM-System, interne Prüfberichte          | Berichtserstellung, Prüfhistorie                |
+| **Qualitätsmanagement**      | ISO/IEC 17025 QM-System                                        | Auditvorbereitung, Prüfmittelüberwachung        |
+
+---
+
+### 🟩 5. Abschluss: Einarbeitungsfortschritt und Ausblick
+
+> „In den ersten Wochen habe ich begonnen, die relevanten Normen (IEC 60060, 60270, 62271-200, ISO 17025) zu analysieren und deren praktische Bedeutung für die Prüfabläufe im Labor zu verstehen. Mein Ziel ist es, in den nächsten Wochen eine eigene Typprüfung unter Anleitung vorzubereiten und durchzuführen, um Theorie und Praxis zu verknüpfen. Gleichzeitig möchte ich Ideen zur Digitalisierung der Prüfdokumentation und Kalibrierüberwachung einbringen.“
+
+---
+
+## 💡 Gesprächstipps
+
+* Sprich **in klaren, technischen Beispielen**: „Bei der Hochspannungsprüfung wird z. B. geprüft, ob der Schaltanlagentyp 1,2/50 µs-Blitzstoßspannungen ohne Durchschlag standhält.“
+* Vermeide zu allgemeine Aussagen – beziehe dich lieber auf reale Tätigkeiten im Labor.
+* Frage am Ende:
+
+  > „Gibt es aus Ihrer Sicht Schwerpunkte, auf die ich mich in den nächsten Wochen besonders konzentrieren sollte?“
+
+---
+
+Wenn du willst, kann ich dir aus diesen Punkten eine **einseitige Gesprächs-Notiz (z. B. PDF oder Word)** erstellen, die du morgen als **Spickzettel oder Handout** nutzen kannst.
+Möchtest du das?

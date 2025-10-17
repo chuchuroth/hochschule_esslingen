@@ -532,3 +532,178 @@ The main points, knowledgeable information, know-how, and industry practices reg
     *   **Wind/Mining:** Must withstand severe vibration stress and harsh environments (dusty, strong winds).
     *   **Shipbuilding:** Requires robust, compact, and encapsulated designs to withstand shocks, vibration, and salty/humid marine environments.
     *   **Generator Switching:** Considered the most challenging application, requiring high reliability to interrupt high short-circuit currents and operate reliably under asynchronous conditions (different frequencies and voltages).
+
+---
+
+Perfekt — das ist eine **sehr professionelle Idee** 👏
+Eine gut geführte **„Normen-Mappe“** ist Gold wert im Prüflabor, weil sie dir hilft, schnell auf die relevanten Anforderungen und Prüfverfahren zuzugreifen, ohne jedes Mal durch hunderte Seiten Normtext zu blättern.
+
+Unten bekommst du:
+
+1. Eine **Strukturvorlage** für deine Mappe (Ordner- oder OneNote-Aufbau),
+2. **Kurze, prägnante Zusammenfassungen** der vier Normen, die du genannt hast,
+3. Und eine **Empfehlung**, wie du jede neue Norm selbst in Zukunft zusammenfassen kannst.
+
+---
+
+## 📂 1. Struktur deiner Normen-Mappe
+
+Am besten legst du sie **digital (z. B. OneNote, Notion, oder PDF-Ordner)** an, mit einer klaren Struktur:
+
+```
+Normen-Mappe – Prüflabor Mittelspannung
+│
+├── 01_IEC_60060-1_Hochspannungs-Prüftechnik
+│   ├── Zusammenfassung.pdf
+│   ├── Prüfvorschriften_Notizen.pdf
+│   └── Beispiel_Messaufbau.png
+│
+├── 02_IEC_62271-200_Schaltanlagen
+│   ├── Zusammenfassung.pdf
+│   ├── Typprüfungen_Checkliste.pdf
+│
+├── 03_IEC_60270_Teilentladung
+│   ├── Messprinzipien.pdf
+│   ├── Beispiel_Messschaltung.png
+│
+├── 04_ISO_17025_Laborakkreditierung
+│   ├── QM_Prozessübersicht.pdf
+│   ├── Audit_Checkliste.pdf
+│
+└── 99_Notizen_und_Änderungen
+```
+
+Jede Norm enthält:
+
+* 🔹 **Kurzzusammenfassung (1 Seite)**
+* 🔹 **Kernpunkte / Prüfanforderungen**
+* 🔹 **Bezug zur Praxis im Prüflabor**
+* 🔹 **Eigene Notizen**
+
+---
+
+## 📘 2. Zusammenfassungen der wichtigsten Normen
+
+---
+
+### ⚡ **E DIN EN IEC 60060-1 (VDE 0432-1):2023-01**
+
+**Titel:** *Hochspannungs-Prüftechnik – Teil 1: Allgemeine Prüfverfahren*
+
+**Ziel:**
+Definiert Verfahren, Geräte und Messmethoden für Hochspannungsprüfungen an elektrischen Betriebsmitteln. Grundlage für alle Spannungsfestigkeitsprüfungen.
+
+**Kerninhalte:**
+
+* 📈 **Spannungsarten:** Gleichspannung, Wechselspannung (50/60 Hz), Stoßspannung (Blitz- und Schaltstoß)
+* ⚙️ **Messgeräte:** Anforderungen an Messsysteme, Genauigkeit, Kalibrierung
+* 🔌 **Prüfkreise:** Aufbau, Erdung, Abschirmung, Entladewiderstände
+* 🧮 **Unsicherheit & Toleranzen:** Definitionen von Spitzenwerten, Scheitelwerten, Effektivwerten
+* 🧰 **Messverfahren:** Verfahren für AC-, DC- und Impulsprüfungen, inklusive Filterung, Triggerung, Datenerfassung
+* 🔒 **Sicherheitsanforderungen:** Abstand, Potentialsteuerung, Personenschutz
+
+**Praxisbezug:**
+
+* Grundlage für **Typprüfungen** an Mittelspannungsschaltanlagen nach IEC 62271.
+* Prüflabore müssen ihre **Hochspannungsaufbauten** und **Messsysteme** gemäß dieser Norm kalibrieren und dokumentieren.
+
+---
+
+### ⚙️ **DIN EN IEC 62271-200 (VDE 0671-200):2023-04**
+
+**Titel:** *Hochspannungs-Schaltgeräte und -Schaltanlagen – Teil 200: AC-Metallgekapselte Schaltanlagen für Nennspannungen über 1 kV bis 52 kV*
+
+**Ziel:**
+Beschreibt Anforderungen, Bauarten, Prüfverfahren und Klassifizierungen für Mittelspannungs-Schaltanlagen.
+
+**Kerninhalte:**
+
+* 🏗️ **Schaltanlagentypen:** Metallgekapselt, luftisoliert, SF₆- oder Vakuumtechnologie
+* ⚡ **Klassifizierung:** LSC (Loss of Service Continuity), AFL/AFLR (Betriebssicherheit), IAC (Innere Lichtbogenfestigkeit)
+* 🔬 **Typprüfungen:** Spannungsfestigkeit, Erwärmung, Kurzzeitstromfestigkeit, Schaltvermögen, EMV
+* 📑 **Routinetests:** Für jedes gefertigte Gerät, um Produktionsqualität sicherzustellen
+* 🧰 **Kennzeichnung & Dokumentation:** Typenschild, Prüfzertifikate, Schaltpläne
+* 🔒 **Sicherheitsanforderungen:** Bedienerschutz, Erdung, Berührungsschutz, Lichtbogenprüfung
+
+**Praxisbezug:**
+Diese Norm ist **zentrale Basis** für alle Typprüfungen, die du im Prüflabor durchführst.
+Sie definiert, *was* geprüft wird, während IEC 60060 erklärt, *wie* geprüft wird.
+
+---
+
+### ⚡ **IEC 60270:2025**
+
+**Titel:** *High-voltage test techniques – Charge-based measurement of partial discharges*
+
+**Ziel:**
+Beschreibt Verfahren zur **Messung von Teilentladungen (TE)** an elektrischen Betriebsmitteln zur Beurteilung der Isolationsqualität.
+
+**Kerninhalte:**
+
+* 💡 **Begriffe:** Teilentladung, Scheinladungswert, Entladungsbeginnspannung (PDIV)
+* 🧰 **Messverfahren:** Kapazitive Kopplung, Messfilterung, Hochfrequenzunterdrückung
+* 📊 **Messgeräte:** Verstärker, TE-Messbrücke, Kalibrierimpulsgeber
+* 🧮 **Kalibrierung:** Bestimmung der Empfindlichkeit des TE-Systems
+* 📈 **Bewertung:** Grenzwerte, Messunsicherheiten, Störunterdrückung
+
+**Praxisbezug:**
+
+* In der Mittelspannung ist TE-Messung essenziell für **Isolationsdiagnose und Qualitätsbewertung**.
+* Du solltest wissen, wie ein **TE-Messaufbau** aussieht, wie du ihn **kalibrierst**, und wie du **Störsignale erkennst**.
+
+---
+
+### 🧾 **ISO/IEC 17025:2017**
+
+**Titel:** *Allgemeine Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien*
+
+**Ziel:**
+Legt die Anforderungen fest, um sicherzustellen, dass ein Labor **technisch kompetent** ist und **valide Ergebnisse** liefert.
+
+**Kerninhalte:**
+
+* 🧠 **Managementanforderungen:** Dokumentation, Risikomanagement, Auditierung
+* ⚙️ **Technische Anforderungen:** Personalqualifikation, Prüfverfahren, Messgeräte, Umweltbedingungen
+* 🧾 **Validierung & Rückführbarkeit:** Kalibrierungen müssen auf nationale Normale zurückführbar sein
+* 🔁 **Qualitätssicherung:** Teilnahme an Vergleichsmessungen, interne Audits
+* 📄 **Dokumentation:** Prüfberichte, Rückverfolgbarkeit, Versionierung
+
+**Praxisbezug:**
+
+* Dein Prüflabor ist **akkreditiert** → jede Prüfung muss **nachweisbar**, **rückführbar** und **reproduzierbar** sein.
+* Du arbeitest mit diesen Prinzipien täglich: Prüfmittelüberwachung, Kalibrierungen, Aufzeichnungen, Auditvorbereitung.
+
+---
+
+## 🧩 3. Vorlage für eigene Norm-Zusammenfassungen
+
+Wenn du neue Normen hinzufügst (z. B. IEC 62271-100 oder IEC 60071), verwende dieses einfache Template:
+
+---
+
+### **Normbezeichnung + Jahr + Titel**
+
+**Ziel der Norm:**
+*(Was will die Norm sicherstellen?)*
+
+**Geltungsbereich:**
+*(Für welche Geräte/Prüfungen gilt sie?)*
+
+**Kernanforderungen:**
+
+* Punkt 1
+* Punkt 2
+* Punkt 3
+
+**Mess-/Prüfverfahren:**
+*(Wie wird geprüft? Welche Geräte / Werte sind wichtig?)*
+
+**Sicherheits- oder Qualitätsaspekte:**
+*(Was ist besonders zu beachten?)*
+
+**Bezug zur Praxis im Labor:**
+*(Wann und wie du sie im Alltag brauchst.)*
+
+---
+
+Möchtest du, dass ich dir daraus eine **vorbereitete Vorlage (z. B. als editierbare Word- oder PDF-Datei)** erstelle, die du direkt mit deinen Notizen ausfüllen kannst?

@@ -66,16 +66,6 @@ Das macht dich zum "perfekten Fit"! Wenn du ein vollständiges Lebenslauf-Beispi
 
 ---
 
-Understand medium voltage systems.
-Identify the major components associated with medium voltage distribution.
-Understand dielectric oil test results.
-Identify the purpose of medium-voltage distribution components.
-Apply safety requirements for inspection and/or maintenance of medium voltage systems.
-Gain basic understanding of protective relays and relay settings.
-Troubleshoot and maintain medium voltage equipment.
-
-
-Eine Thermal-Vakuum-Kammer ermöglicht die Forschung unter extremen Umgebungsbedingungen bezogen auf den Druck und die Temperatur. Die Thermal-Vakuum-Kammer wird häufig in der Raumfahrt- und Luftfahrtforschung eingesetzt um Materialien unter atmosphärischem Druck und extremen Temperaturen zu prüfen.
 
 ---
 

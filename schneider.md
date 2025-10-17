@@ -707,3 +707,32 @@ Wenn du neue Normen hinzufügst (z. B. IEC 62271-100 oder IEC 60071), verwende d
 ---
 
 Möchtest du, dass ich dir daraus eine **vorbereitete Vorlage (z. B. als editierbare Word- oder PDF-Datei)** erstelle, die du direkt mit deinen Notizen ausfüllen kannst?
+
+---
+
+### Was ist TÜV?
+
+Der **TÜV** (Technischer Überwachungsverein) ist eine unabhängige, eingetragene Vereinigung oder Firma in Deutschland und Österreich, die technische Prüfungen, Inspektionen und Zertifizierungen für Produkte, Anlagen und Systeme durchführt. Ursprünglich entstanden als Selbsthilfeorganisation für den Staat, ist der TÜV heute international tätig und bekannt für Bereiche wie die Hauptuntersuchung (HU) von Fahrzeugen, Produktsicherheit, Umweltschutz und Qualitätsmanagement. Es gibt mehrere regionale TÜV-Organisationen (z. B. TÜV Rheinland, TÜV SÜD), die nach Normen wie ISO 17025 arbeiten.
+
+### Was ist DAkkS?
+
+Die **DAkkS** (Deutsche Akkreditierungsstelle GmbH) ist die nationale Akkreditierungsbehörde Deutschlands mit Sitz in Berlin. Sie prüft und akkreditiert Prüf-, Zertifizierungs- und Kalibrierungsstellen (z. B. Labore oder Inspektionsfirmen), um deren Kompetenz und Unabhängigkeit zu bestätigen – quasi "die Prüfer der Prüfer". Die DAkkS ist ein zentraler Bestandteil der Qualitätsinfrastruktur und vergibt Akkreditierungen basierend auf internationalen Standards wie ISO/IEC 17025 oder 17065, was für den Freihandel in der EU essenziell ist. Sie ist mehrheitlich im Besitz von Bund und Ländern.
+
+### Vergleich: TÜV vs. DAkkS
+- **TÜV** führt direkte Prüfungen und Zertifizierungen durch (z. B. für Autos oder Maschinen) und kann selbst von der DAkkS akkreditiert sein.
+- **DAkkS** akkreditiert solche Organisationen wie den TÜV, um deren Arbeit zu validieren – sie prüft nicht selbst Produkte, sondern die Prozesse der Prüfer. Der TÜV ist also ein "Benutzer" der DAkkS-Akkreditierung.
+
+### Gibt es andere ähnliche Institute?
+Ja, in Deutschland und international gibt es zahlreiche vergleichbare Organisationen für Prüfungen, Zertifizierungen und Akkreditierungen. Die DAkkS ist die einzige nationale Akkreditierungsstelle in Deutschland, aber es existieren viele akkreditierte Prüf- und Zertifizierungsstellen. Hier eine Auswahl ähnlicher Institute:
+
+| Institut | Beschreibung | Ähnlichkeit zu TÜV/DAkkS |
+|----------|--------------|---------------------------|
+| **DEKRA** | Unabhängige Prüf- und Zertifizierungsorganisation, speziell für Fahrzeuge, Industrie und Personalzertifizierungen. | Ähnlich wie TÜV: Führt HU und Produkttests durch, oft DAkkS-akkreditiert. |
+| **DQS** | Deutsche Gesellschaft zur Zertifizierung von Managementsystemen; fokussiert auf ISO-Zertifizierungen. | Wie TÜV: Zertifiziert Systeme, akkreditiert durch DAkkS. |
+| **GTÜ Certification GmbH** | Spezialisiert auf Zertifizierungen in Bildung, Wirtschaft und Umwelt. | Ähnlich TÜV: Branchenübergreifende Prüfungen, DAkkS-akkreditiert. |
+| **IFU-CERT** | Zertifizierung für Managementsysteme in verschiedenen Sektoren. | Vergleichbar mit TÜV: Fokus auf Qualitäts- und Umweltzertifizierungen. |
+| **VDE** | Verband der Elektrotechnik; prüft elektrische Produkte und Anlagen. | Ähnlich TÜV: Technische Prüfungen, oft mit DAkkS-Akkreditierung. |
+
+International sind z. B. die UKAS (UK) oder ANSI (USA) als Akkreditierer vergleichbar mit DAkkS. In der EU kooperieren sie über ILAC und IAF. Für spezifische Branchen (z. B. Automotive) gibt es auch den VDA-QMC.
+
+Falls du mehr Details zu einem Institut brauchst, lass es mich wissen!

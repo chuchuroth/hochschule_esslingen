@@ -1,3 +1,20 @@
+course "medium voltage systems": 
+
++ Understand medium voltage systems.
++ Identify the major components associated with medium voltage distribution.
++ Understand dielectric oil test results.
++ Identify the purpose of medium-voltage distribution components.
++ Apply safety requirements for inspection and/or maintenance of medium voltage systems.
++ Gain basic understanding of protective relays and relay settings.
++ Troubleshoot and maintain medium voltage equipment.
+
+
++ Eine Thermal-Vakuum-Kammer ermöglicht die Forschung unter extremen Umgebungsbedingungen bezogen auf den Druck und die Temperatur. Die Thermal-Vakuum-Kammer wird häufig in der Raumfahrt- und Luftfahrtforschung eingesetzt um Materialien unter atmosphärischem Druck und extremen Temperaturen zu prüfen.
+
+
+---
+---
+---
 # grok
 
 ### Herzlichen Glückwunsch zu deiner neuen Rolle!
@@ -48,20 +65,9 @@ Hier ein strukturierter Plan, der dich schrittweise aufbaut: Von Orientierung ü
 Falls du mehr Details zu einem Kurs brauchst oder den Plan anpassen möchtest, lass es mich wissen. Viel Erfolg – du schaffst das!
 
 ---
-course "medium voltage systems": 
-
-+ Understand medium voltage systems.
-+ Identify the major components associated with medium voltage distribution.
-+ Understand dielectric oil test results.
-+ Identify the purpose of medium-voltage distribution components.
-+ Apply safety requirements for inspection and/or maintenance of medium voltage systems.
-+ Gain basic understanding of protective relays and relay settings.
-+ Troubleshoot and maintain medium voltage equipment.
 
 
-+ Eine Thermal-Vakuum-Kammer ermöglicht die Forschung unter extremen Umgebungsbedingungen bezogen auf den Druck und die Temperatur. Die Thermal-Vakuum-Kammer wird häufig in der Raumfahrt- und Luftfahrtforschung eingesetzt um Materialien unter atmosphärischem Druck und extremen Temperaturen zu prüfen.
 
----
 
 
 
@@ -377,6 +383,7 @@ Dieser Plan hilft Ihnen, sich systematisch in die wichtigsten Bereiche einzuarbe
 Viel Erfolg bei Ihrer neuen und spannenden Herausforderung bei Schneider Electric!
 
 ---
+# perplexity
 
 ### Überblick
 Deine neue Rolle als **Versuchsingenieurin im Mittelspannungs-Prüflabor** bei Schneider Electric konzentriert sich auf das **Testen, Dokumentieren und Weiterentwickeln von Mittelspannungsprodukten** (z. B. Schaltgeräte, Leistungsschalter, Schutzsysteme). Du arbeitest in einem **akkreditierten Prüflabor** (nach ISO/IEC 17025), was bedeutet, dass Methoden, Messmittel und Dokumentation einem qualitätsgesicherten System folgen müssen. 
@@ -441,6 +448,7 @@ Deine neue Rolle als **Versuchsingenieurin im Mittelspannungs-Prüflabor** bei S
 Wenn du mir dein Studienthema und deine aktuelle Erfahrung im Bereich Mittelspannung oder Laborarbeit nennst, kann ich dir den Plan noch stärker anpassen (z. B. mit Normen, Simulationsübungen oder Geräteressourcen).
 
 ---
+# Siemens Video
 
 The main points, knowledgeable information, know-how, and industry practices regarding medium voltage (MV) technology and switchgear, drawn from the provided sources, are listed below.
 

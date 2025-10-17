@@ -154,7 +154,7 @@ Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die
 
 8. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
 
-9. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
+9. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**. E-Plan, control panel, VFD, ...
 
 
 

@@ -105,6 +105,8 @@ In summary, I combine strong expertise in testing, calibration, and automation w
 flex电池包检测用到了ai。
 我的这个职位选择也是基于AI加大数据的帮助，我把我自己的个人资料和我的兴趣爱好提交给AI，让AI帮我分析我适合哪些职位，这个职位就是其中之一。
 
+另外我觉得下一个有潜力的领域是开发触觉传感器，因为目前这是类人机器人的灵巧手的技术瓶颈。
+
 
 
 （完事后多读几遍，说着不自然的话不如删掉）
